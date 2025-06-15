@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 9.0, Run # 0
+Done! Beta = 9.0
+TinA(j) = 4.9402e+04; TinB(j) = 9.5978e+01; T_OmegaAB(j) = 5.0156e+02; rateAB = 8.0000e-05(j);
+TlastA(j) = 4.9873e+04; TlastB(j) = 1.2719e+02;
+rhoA(j) = 9.9746e-01; rhoB(j) = 2.5439e-03;
+kA(j) = 8.0204e-05; kB(j) = 3.1448e-02;
+AB_event_counter(j) = 4;
+START near MIN 0
+Beta = 9.0, Run # 1
+Done! Beta = 9.0
+TinA(j) = 4.9335e+04; TinB(j) = 1.7883e+02; T_OmegaAB(j) = 4.8592e+02; rateAB = 2.0000e-04(j);
+TlastA(j) = 4.9615e+04; TlastB(j) = 3.8466e+02;
+rhoA(j) = 9.9231e-01; rhoB(j) = 7.6933e-03;
+kA(j) = 2.0155e-04; kB(j) = 2.5997e-02;
+AB_event_counter(j) = 10;
+START near MIN 0
+Beta = 9.0, Run # 2
+Done! Beta = 9.0
+TinA(j) = 4.9247e+04; TinB(j) = 3.1507e+01; T_OmegaAB(j) = 7.2185e+02; rateAB = 1.8000e-04(j);
+TlastA(j) = 4.9605e+04; TlastB(j) = 3.9522e+02;
+rhoA(j) = 9.9210e-01; rhoB(j) = 7.9044e-03;
+kA(j) = 1.8143e-04; kB(j) = 2.2772e-02;
+AB_event_counter(j) = 9;
+START near MIN 0
+Beta = 9.0, Run # 3
+Done! Beta = 9.0
+TinA(j) = 4.9665e+04; TinB(j) = 1.1399e+01; T_OmegaAB(j) = 3.2353e+02; rateAB = 1.0000e-04(j);
+TlastA(j) = 4.9909e+04; TlastB(j) = 9.1287e+01;
+rhoA(j) = 9.9817e-01; rhoB(j) = 1.8257e-03;
+kA(j) = 1.0018e-04; kB(j) = 5.4772e-02;
+AB_event_counter(j) = 5;
+START near MIN 0
+Beta = 9.0, Run # 4
+Done! Beta = 9.0
+TinA(j) = 4.9606e+04; TinB(j) = 8.3580e+00; T_OmegaAB(j) = 3.8579e+02; rateAB = 1.2000e-04(j);
+TlastA(j) = 4.9908e+04; TlastB(j) = 9.1819e+01;
+rhoA(j) = 9.9816e-01; rhoB(j) = 1.8364e-03;
+kA(j) = 1.2022e-04; kB(j) = 6.5346e-02;
+AB_event_counter(j) = 6;
+START near MIN 0
+Beta = 9.0, Run # 5
+Done! Beta = 9.0
+TinA(j) = 4.9633e+04; TinB(j) = 1.2844e+02; T_OmegaAB(j) = 2.3869e+02; rateAB = 6.0000e-05(j);
+TlastA(j) = 4.9846e+04; TlastB(j) = 1.5438e+02;
+rhoA(j) = 9.9691e-01; rhoB(j) = 3.0877e-03;
+kA(j) = 6.0186e-05; kB(j) = 1.9432e-02;
+AB_event_counter(j) = 3;
+START near MIN 0
+Beta = 9.0, Run # 6
+Done! Beta = 9.0
+TinA(j) = 4.9432e+04; TinB(j) = 8.7541e+00; T_OmegaAB(j) = 5.5880e+02; rateAB = 1.8000e-04(j);
+TlastA(j) = 4.9819e+04; TlastB(j) = 1.8064e+02;
+rhoA(j) = 9.9639e-01; rhoB(j) = 3.6129e-03;
+kA(j) = 1.8065e-04; kB(j) = 4.9822e-02;
+AB_event_counter(j) = 9;
+START near MIN 0
+Beta = 9.0, Run # 7
+Done! Beta = 9.0
+TinA(j) = 4.9699e+04; TinB(j) = 1.0225e-01; T_OmegaAB(j) = 3.0053e+02; rateAB = 6.0000e-05(j);
+TlastA(j) = 4.9957e+04; TlastB(j) = 4.2844e+01;
+rhoA(j) = 9.9914e-01; rhoB(j) = 8.5688e-04;
+kA(j) = 6.0051e-05; kB(j) = 7.0021e-02;
+AB_event_counter(j) = 3;
+START near MIN 0
+Beta = 9.0, Run # 8
+Done! Beta = 9.0
+TinA(j) = 4.9302e+04; TinB(j) = 4.2991e+01; T_OmegaAB(j) = 6.5535e+02; rateAB = 2.2000e-04(j);
+TlastA(j) = 4.9657e+04; TlastB(j) = 3.4313e+02;
+rhoA(j) = 9.9314e-01; rhoB(j) = 6.8625e-03;
+kA(j) = 2.2152e-04; kB(j) = 3.2058e-02;
+AB_event_counter(j) = 11;
+START near MIN 0
+Beta = 9.0, Run # 9
+Done! Beta = 9.0
+TinA(j) = 4.8887e+04; TinB(j) = 3.0153e+01; T_OmegaAB(j) = 1.0833e+03; rateAB = 2.8000e-04(j);
+TlastA(j) = 4.9350e+04; TlastB(j) = 6.5008e+02;
+rhoA(j) = 9.8700e-01; rhoB(j) = 1.3002e-02;
+kA(j) = 2.8369e-04; kB(j) = 2.1536e-02;
+AB_event_counter(j) = 14;
+CPU time = 30893.6
+
+AB_event_counter
+4.0000e+00
+1.0000e+01
+9.0000e+00
+5.0000e+00
+6.0000e+00
+3.0000e+00
+9.0000e+00
+3.0000e+00
+1.1000e+01
+1.4000e+01
+Mean = 7.4000e+00
+Standard deviation = 3.7476e+00
+
+TinA
+4.9402e+04
+4.9335e+04
+4.9247e+04
+4.9665e+04
+4.9606e+04
+4.9633e+04
+4.9432e+04
+4.9699e+04
+4.9302e+04
+4.8887e+04
+Mean = 4.9421e+04
+Standard deviation = 2.4815e+02
+
+TinB
+9.5978e+01
+1.7883e+02
+3.1507e+01
+1.1399e+01
+8.3580e+00
+1.2844e+02
+8.7541e+00
+1.0225e-01
+4.2991e+01
+3.0153e+01
+Mean = 5.3652e+01
+Standard deviation = 6.0490e+01
+
+TlastA
+4.9873e+04
+4.9615e+04
+4.9605e+04
+4.9909e+04
+4.9908e+04
+4.9846e+04
+4.9819e+04
+4.9957e+04
+4.9657e+04
+4.9350e+04
+Mean = 4.9754e+04
+Standard deviation = 1.9148e+02
+
+TlastB
+1.2719e+02
+3.8466e+02
+3.9522e+02
+9.1287e+01
+9.1819e+01
+1.5438e+02
+1.8064e+02
+4.2844e+01
+3.4313e+02
+6.5008e+02
+Mean = 2.4613e+02
+Standard deviation = 1.9148e+02

@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 7.0, Run # 0
+Done! Beta = 7.0
+TinA(j) = 4.5409e+04; TinB(j) = 2.1756e+02; T_OmegaAB(j) = 4.3732e+03; rateAB = 1.6400e-03(j);
+TlastA(j) = 4.8610e+04; TlastB(j) = 1.3897e+03;
+rhoA(j) = 9.7221e-01; rhoB(j) = 2.7793e-02;
+kA(j) = 1.6869e-03; kB(j) = 5.9007e-02;
+AB_event_counter(j) = 82;
+START near MIN 0
+Beta = 7.0, Run # 1
+Done! Beta = 7.0
+TinA(j) = 4.5317e+04; TinB(j) = 1.5150e+02; T_OmegaAB(j) = 4.5318e+03; rateAB = 1.6400e-03(j);
+TlastA(j) = 4.8602e+04; TlastB(j) = 1.3982e+03;
+rhoA(j) = 9.7204e-01; rhoB(j) = 2.7964e-02;
+kA(j) = 1.6872e-03; kB(j) = 5.8648e-02;
+AB_event_counter(j) = 82;
+START near MIN 0
+Beta = 7.0, Run # 2
+Done! Beta = 7.0
+TinA(j) = 4.5007e+04; TinB(j) = 2.0967e+02; T_OmegaAB(j) = 4.7837e+03; rateAB = 1.8400e-03(j);
+TlastA(j) = 4.8608e+04; TlastB(j) = 1.3917e+03;
+rhoA(j) = 9.7217e-01; rhoB(j) = 2.7834e-02;
+kA(j) = 1.8927e-03; kB(j) = 6.6106e-02;
+AB_event_counter(j) = 92;
+START near MIN 0
+Beta = 7.0, Run # 3
+Done! Beta = 7.0
+TinA(j) = 4.5479e+04; TinB(j) = 3.1573e+02; T_OmegaAB(j) = 4.2050e+03; rateAB = 1.8200e-03(j);
+TlastA(j) = 4.8501e+04; TlastB(j) = 1.4986e+03;
+rhoA(j) = 9.7003e-01; rhoB(j) = 2.9972e-02;
+kA(j) = 1.8762e-03; kB(j) = 6.0724e-02;
+AB_event_counter(j) = 91;
+START near MIN 0
+Beta = 7.0, Run # 4
+Done! Beta = 7.0
+TinA(j) = 4.4628e+04; TinB(j) = 2.2192e+02; T_OmegaAB(j) = 5.1499e+03; rateAB = 1.8400e-03(j);
+TlastA(j) = 4.8312e+04; TlastB(j) = 1.6875e+03;
+rhoA(j) = 9.6625e-01; rhoB(j) = 3.3750e-02;
+kA(j) = 1.9043e-03; kB(j) = 5.4518e-02;
+AB_event_counter(j) = 92;
+START near MIN 0
+Beta = 7.0, Run # 5
+Done! Beta = 7.0
+TinA(j) = 4.5327e+04; TinB(j) = 1.9283e+02; T_OmegaAB(j) = 4.4797e+03; rateAB = 1.6800e-03(j);
+TlastA(j) = 4.8640e+04; TlastB(j) = 1.3599e+03;
+rhoA(j) = 9.7280e-01; rhoB(j) = 2.7197e-02;
+kA(j) = 1.7270e-03; kB(j) = 6.1771e-02;
+AB_event_counter(j) = 84;
+START near MIN 0
+Beta = 7.0, Run # 6
+Done! Beta = 7.0
+TinA(j) = 4.5119e+04; TinB(j) = 2.6847e+02; T_OmegaAB(j) = 4.6122e+03; rateAB = 1.8600e-03(j);
+TlastA(j) = 4.8178e+04; TlastB(j) = 1.8192e+03;
+rhoA(j) = 9.6356e-01; rhoB(j) = 3.6384e-02;
+kA(j) = 1.9303e-03; kB(j) = 5.1122e-02;
+AB_event_counter(j) = 93;
+START near MIN 0
+Beta = 7.0, Run # 7
+Done! Beta = 7.0
+TinA(j) = 4.5379e+04; TinB(j) = 1.8492e+02; T_OmegaAB(j) = 4.4359e+03; rateAB = 1.6000e-03(j);
+TlastA(j) = 4.8745e+04; TlastB(j) = 1.2500e+03;
+rhoA(j) = 9.7490e-01; rhoB(j) = 2.4999e-02;
+kA(j) = 1.6412e-03; kB(j) = 6.4002e-02;
+AB_event_counter(j) = 80;
+START near MIN 0
+Beta = 7.0, Run # 8
+Done! Beta = 7.0
+TinA(j) = 4.5752e+04; TinB(j) = 1.6954e+02; T_OmegaAB(j) = 4.0780e+03; rateAB = 1.4400e-03(j);
+TlastA(j) = 4.8696e+04; TlastB(j) = 1.3040e+03;
+rhoA(j) = 9.7392e-01; rhoB(j) = 2.6080e-02;
+kA(j) = 1.4786e-03; kB(j) = 5.5214e-02;
+AB_event_counter(j) = 72;
+START near MIN 0
+Beta = 7.0, Run # 9
+Done! Beta = 7.0
+TinA(j) = 4.4837e+04; TinB(j) = 2.5440e+02; T_OmegaAB(j) = 4.9089e+03; rateAB = 1.6000e-03(j);
+TlastA(j) = 4.8503e+04; TlastB(j) = 1.4968e+03;
+rhoA(j) = 9.7006e-01; rhoB(j) = 2.9937e-02;
+kA(j) = 1.6494e-03; kB(j) = 5.3446e-02;
+AB_event_counter(j) = 80;
+CPU time = 30815.6
+
+AB_event_counter
+8.2000e+01
+8.2000e+01
+9.2000e+01
+9.1000e+01
+9.2000e+01
+8.4000e+01
+9.3000e+01
+8.0000e+01
+7.2000e+01
+8.0000e+01
+Mean = 8.4800e+01
+Standard deviation = 6.9570e+00
+
+TinA
+4.5409e+04
+4.5317e+04
+4.5007e+04
+4.5479e+04
+4.4628e+04
+4.5327e+04
+4.5119e+04
+4.5379e+04
+4.5752e+04
+4.4837e+04
+Mean = 4.5226e+04
+Standard deviation = 3.3086e+02
+
+TinB
+2.1756e+02
+1.5150e+02
+2.0967e+02
+3.1573e+02
+2.2192e+02
+1.9283e+02
+2.6847e+02
+1.8492e+02
+1.6954e+02
+2.5440e+02
+Mean = 2.1865e+02
+Standard deviation = 4.9444e+01
+
+TlastA
+4.8610e+04
+4.8602e+04
+4.8608e+04
+4.8501e+04
+4.8312e+04
+4.8640e+04
+4.8178e+04
+4.8745e+04
+4.8696e+04
+4.8503e+04
+Mean = 4.8540e+04
+Standard deviation = 1.7495e+02
+
+TlastB
+1.3897e+03
+1.3982e+03
+1.3917e+03
+1.4986e+03
+1.6875e+03
+1.3599e+03
+1.8192e+03
+1.2500e+03
+1.3040e+03
+1.4968e+03
+Mean = 1.4596e+03
+Standard deviation = 1.7497e+02
