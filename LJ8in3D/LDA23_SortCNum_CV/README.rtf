@@ -1,0 +1,119 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \CocoaLigature0 LDA Sorted Coordination Numbers CVs\
+\
+WTMetad\
+\
+(base) mariacameron@Marias-Mac-Studio LDA_SortCNum_CV % gcc -Wall LJ8_WTMetad_LDA_CNum_CV_2D.c LDA_CoordNum_CV.c timestep_helpers.c -lm -O3\
+(base) mariacameron@Marias-Mac-Studio LDA_SortCNum_CV % ./a.out\
+In readLDAmatrix\
+-9.3301e-02	-4.6779e-01	\
+3.8500e-02	-7.6840e-01	\
+-2.9430e-01	-3.8874e-02	\
+-1.6710e-01	-1.6917e-01	\
+8.3301e-02	2.8462e-01	\
+4.1350e-01	1.9864e-01	\
+-6.3901e-01	1.8489e-01	\
+5.3761e-01	-7.7138e-02	\
+Nbumps = 0\
+Nbumps = 100\
+\'85\
+Nbumps = 49900\
+CPU time = 8504.71\
+(base) mariacameron@Marias-Mac-Studio LDA_SortCNum_CV % \
+\
+FE\
+\
+\
+WTMetad\
+\
+(base) mariacameron@Marias-Mac-Studio LDA_SortCNum_CV % gcc -Wall LJ8_WTMetad_LDA_CNum_CV_2D.c LDA_CoordNum_CV.c timestep_helpers.c -lm -O3\
+(base) mariacameron@Marias-Mac-Studio LDA_SortCNum_CV % ./a.out\
+In readLDAmatrix\
+-9.3301e-02	-4.6779e-01	\
+3.8500e-02	-7.6840e-01	\
+-2.9430e-01	-3.8874e-02	\
+-1.6710e-01	-1.6917e-01	\
+8.3301e-02	2.8462e-01	\
+4.1350e-01	1.9864e-01	\
+-6.3901e-01	1.8489e-01	\
+5.3761e-01	-7.7138e-02	\
+Nbumps = 0\
+Nbumps = 100\
+\'85\
+Nbumps = 49900\
+CPU time = 8504.71\
+(base) mariacameron@Marias-Mac-Studio LDA_SortCNum_CV % \
+\
+FE\
+(base) mariacameron@Marias-Mac-Studio LDA23_SortCNum_CV % gcc -Wall LJ8in3D_bicubicFE_binning.c LDA_CoordNum_CV.c timestep_helpers.c -lm -O3\
+(base) mariacameron@Marias-Mac-Studio LDA23_SortCNum_CV % ./a.out\
+Normalized CVs\
+BETA = 10.0\
+The total number of bumps is n = 50000\
+val1_min = -3.4773e+00\
+val1_max = -1.1049e+00\
+val2_min = 1.5713e-01\
+val2_max = 2.0078e+00\
+h1 = 2.1430e-02\
+h2 = 1.6717e-02\
+Computing WTMetad data on the grid ... done!\
+Computing the bicubic matrix on the grid ... done!\
+In readLDAmatrix\
+-4.6779e-01	4.2702e-01	\
+-7.6840e-01	7.1526e-02	\
+-3.8874e-02	-3.5607e-02	\
+-1.6917e-01	-4.8937e-01	\
+2.8462e-01	7.2265e-01	\
+1.9864e-01	-1.8693e-01	\
+1.8489e-01	-3.7230e-02	\
+-7.7138e-02	-1.1506e-01	\
+Created the initial configuration\
+binning: 0 steps\
+binning: 100000 steps\
+binning: 200000 steps\
+binning: 300000 steps\
+\'85\
+binning: 999900000 steps\
+CPU time = 1767.15\
+\
+\
+Diffusion matrix\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % gcc -Wall LJ8in3D_diffusion_matrix.c timestep_helpers.c LDA_CoordNum_CV.c -lm -O3\
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % gcc -Wall LJ8in3D_diffusion_matrix.c timestep_helpers.c LDA_CoordNum_CV.c -lm -O3\
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % ./a.out\
+In readLDAmatrix\
+-9.3301e-02	-4.6779e-01	\
+3.8500e-02	-7.6840e-01	\
+-2.9430e-01	-3.8874e-02	\
+-1.6710e-01	-1.6917e-01	\
+8.3301e-02	2.8462e-01	\
+4.1350e-01	1.9864e-01	\
+-6.3901e-01	1.8489e-01	\
+5.3761e-01	-7.7138e-02	\
+BETA = 10.0\
+val1_min = -7.4218e-01\
+val1_max = 1.0638e+00\
+val2_min = -3.7362e+00\
+val2_max = -8.5385e-01\
+h1 = 1.4109e-02\
+h2 = 2.2518e-02\
+N1 = 129\
+N2 = 129\
+bin (5,26)\
+M11 = 7.1545e+00, M12 = 5.0509e-01, M22 = 9.7312e+00\
+M11 = 8.4191e+00, M12 = 9.7409e-01, M22 = 1.2550e+01\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+Computation of the diffusion matrix: CPU time = 14835.1\
+Nearest neighbor interpolation: CPU time = 0.105888\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\
+}
