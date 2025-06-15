@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 5.0, Run # 0
+Done! Beta = 5.0
+TinA(j) = 2.1996e+04; TinB(j) = 1.7244e+03; T_OmegaAB(j) = 2.6280e+04; rateAB = 2.5240e-02(j);
+TlastA(j) = 3.7225e+04; TlastB(j) = 1.2775e+04;
+rhoA(j) = 7.4451e-01; rhoB(j) = 2.5549e-01;
+kA(j) = 3.3902e-02; kB(j) = 9.8789e-02;
+AB_event_counter(j) = 1262;
+START near MIN 0
+Beta = 5.0, Run # 1
+Done! Beta = 5.0
+TinA(j) = 2.1873e+04; TinB(j) = 1.6515e+03; T_OmegaAB(j) = 2.6476e+04; rateAB = 2.5500e-02(j);
+TlastA(j) = 3.7083e+04; TlastB(j) = 1.2917e+04;
+rhoA(j) = 7.4166e-01; rhoB(j) = 2.5834e-01;
+kA(j) = 3.4382e-02; kB(j) = 9.8708e-02;
+AB_event_counter(j) = 1275;
+START near MIN 0
+Beta = 5.0, Run # 2
+Done! Beta = 5.0
+TinA(j) = 2.1858e+04; TinB(j) = 1.6748e+03; T_OmegaAB(j) = 2.6467e+04; rateAB = 2.4940e-02(j);
+TlastA(j) = 3.6967e+04; TlastB(j) = 1.3033e+04;
+rhoA(j) = 7.3933e-01; rhoB(j) = 2.6067e-01;
+kA(j) = 3.3733e-02; kB(j) = 9.5677e-02;
+AB_event_counter(j) = 1247;
+START near MIN 0
+Beta = 5.0, Run # 3
+Done! Beta = 5.0
+TinA(j) = 2.2049e+04; TinB(j) = 1.7275e+03; T_OmegaAB(j) = 2.6224e+04; rateAB = 2.5060e-02(j);
+TlastA(j) = 3.7197e+04; TlastB(j) = 1.2791e+04;
+rhoA(j) = 7.4394e-01; rhoB(j) = 2.5582e-01;
+kA(j) = 3.3685e-02; kB(j) = 9.7960e-02;
+AB_event_counter(j) = 1253;
+START near MIN 0
+Beta = 5.0, Run # 4
+Done! Beta = 5.0
+TinA(j) = 2.1913e+04; TinB(j) = 1.7611e+03; T_OmegaAB(j) = 2.6326e+04; rateAB = 2.5760e-02(j);
+TlastA(j) = 3.7137e+04; TlastB(j) = 1.2863e+04;
+rhoA(j) = 7.4273e-01; rhoB(j) = 2.5727e-01;
+kA(j) = 3.4683e-02; kB(j) = 1.0013e-01;
+AB_event_counter(j) = 1288;
+START near MIN 0
+Beta = 5.0, Run # 5
+Done! Beta = 5.0
+TinA(j) = 2.2157e+04; TinB(j) = 1.6629e+03; T_OmegaAB(j) = 2.6180e+04; rateAB = 2.5320e-02(j);
+TlastA(j) = 3.7116e+04; TlastB(j) = 1.2884e+04;
+rhoA(j) = 7.4231e-01; rhoB(j) = 2.5769e-01;
+kA(j) = 3.4110e-02; kB(j) = 9.8259e-02;
+AB_event_counter(j) = 1266;
+START near MIN 0
+Beta = 5.0, Run # 6
+Done! Beta = 5.0
+TinA(j) = 2.1460e+04; TinB(j) = 1.8925e+03; T_OmegaAB(j) = 2.6647e+04; rateAB = 2.6060e-02(j);
+TlastA(j) = 3.6365e+04; TlastB(j) = 1.3633e+04;
+rhoA(j) = 7.2730e-01; rhoB(j) = 2.7267e-01;
+kA(j) = 3.5831e-02; kB(j) = 9.5574e-02;
+AB_event_counter(j) = 1303;
+START near MIN 0
+Beta = 5.0, Run # 7
+Done! Beta = 5.0
+TinA(j) = 2.1715e+04; TinB(j) = 1.7402e+03; T_OmegaAB(j) = 2.6544e+04; rateAB = 2.6260e-02(j);
+TlastA(j) = 3.6735e+04; TlastB(j) = 1.3264e+04;
+rhoA(j) = 7.3471e-01; rhoB(j) = 2.6527e-01;
+kA(j) = 3.5742e-02; kB(j) = 9.8992e-02;
+AB_event_counter(j) = 1313;
+START near MIN 0
+Beta = 5.0, Run # 8
+Done! Beta = 5.0
+TinA(j) = 2.1328e+04; TinB(j) = 1.9173e+03; T_OmegaAB(j) = 2.6755e+04; rateAB = 2.5440e-02(j);
+TlastA(j) = 3.6613e+04; TlastB(j) = 1.3387e+04;
+rhoA(j) = 7.3226e-01; rhoB(j) = 2.6774e-01;
+kA(j) = 3.4742e-02; kB(j) = 9.5017e-02;
+AB_event_counter(j) = 1272;
+START near MIN 0
+Beta = 5.0, Run # 9
+Done! Beta = 5.0
+TinA(j) = 2.1375e+04; TinB(j) = 1.7097e+03; T_OmegaAB(j) = 2.6915e+04; rateAB = 2.5920e-02(j);
+TlastA(j) = 3.6602e+04; TlastB(j) = 1.3398e+04;
+rhoA(j) = 7.3204e-01; rhoB(j) = 2.6796e-01;
+kA(j) = 3.5408e-02; kB(j) = 9.6729e-02;
+AB_event_counter(j) = 1296;
+CPU time = 6808.56
+
+AB_event_counter
+1.2620e+03
+1.2750e+03
+1.2470e+03
+1.2530e+03
+1.2880e+03
+1.2660e+03
+1.3030e+03
+1.3130e+03
+1.2720e+03
+1.2960e+03
+Mean = 1.2775e+03
+Standard deviation = 2.1864e+01
+
+TinA
+2.1996e+04
+2.1873e+04
+2.1858e+04
+2.2049e+04
+2.1913e+04
+2.2157e+04
+2.1460e+04
+2.1715e+04
+2.1328e+04
+2.1375e+04
+Mean = 2.1772e+04
+Standard deviation = 2.9193e+02
+
+TinB
+1.7244e+03
+1.6515e+03
+1.6748e+03
+1.7275e+03
+1.7611e+03
+1.6629e+03
+1.8925e+03
+1.7402e+03
+1.9173e+03
+1.7097e+03
+Mean = 1.7462e+03
+Standard deviation = 9.0724e+01
+
+TlastA
+3.7225e+04
+3.7083e+04
+3.6967e+04
+3.7197e+04
+3.7137e+04
+3.7116e+04
+3.6365e+04
+3.6735e+04
+3.6613e+04
+3.6602e+04
+Mean = 3.6904e+04
+Standard deviation = 3.0171e+02
+
+TinB
+1.2775e+04
+1.2917e+04
+1.3033e+04
+1.2791e+04
+1.2863e+04
+1.2884e+04
+1.3633e+04
+1.3264e+04
+1.3387e+04
+1.3398e+04
+Mean = 1.3095e+04
+Standard deviation = 3.0262e+02

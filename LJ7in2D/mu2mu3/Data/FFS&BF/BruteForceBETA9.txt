@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 9.0, Run # 0
+Done! Beta = 9.0
+TinA(j) = 4.8980e+04; TinB(j) = 6.7709e+01; T_OmegaAB(j) = 9.5222e+02; rateAB = 6.0000e-05(j);
+TlastA(j) = 4.9841e+04; TlastB(j) = 1.5899e+02;
+rhoA(j) = 9.9682e-01; rhoB(j) = 3.1798e-03;
+kA(j) = 6.0191e-05; kB(j) = 1.8869e-02;
+AB_event_counter(j) = 3;
+START near MIN 0
+Beta = 9.0, Run # 1
+Done! Beta = 9.0
+TinA(j) = 4.9529e+04; TinB(j) = 0.0000e+00; T_OmegaAB(j) = 4.7136e+02; rateAB = 0.0000e+00(j);
+TlastA(j) = 5.0000e+04; TlastB(j) = 0.0000e+00;
+rhoA(j) = 1.0000e+00; rhoB(j) = 0.0000e+00;
+kA(j) = 0.0000e+00; kB(j) = nan;
+AB_event_counter(j) = 0;
+START near MIN 0
+Beta = 9.0, Run # 2
+Done! Beta = 9.0
+TinA(j) = 4.8658e+04; TinB(j) = 2.8107e+02; T_OmegaAB(j) = 1.0611e+03; rateAB = 1.2000e-04(j);
+TlastA(j) = 4.9482e+04; TlastB(j) = 5.1808e+02;
+rhoA(j) = 9.8964e-01; rhoB(j) = 1.0362e-02;
+kA(j) = 1.2126e-04; kB(j) = 1.1581e-02;
+AB_event_counter(j) = 6;
+START near MIN 0
+Beta = 9.0, Run # 3
+Done! Beta = 9.0
+TinA(j) = 4.9480e+04; TinB(j) = 1.9314e+01; T_OmegaAB(j) = 5.0073e+02; rateAB = 2.0000e-05(j);
+TlastA(j) = 4.9963e+04; TlastB(j) = 3.7362e+01;
+rhoA(j) = 9.9925e-01; rhoB(j) = 7.4724e-04;
+kA(j) = 2.0015e-05; kB(j) = 2.6765e-02;
+AB_event_counter(j) = 1;
+START near MIN 0
+Beta = 9.0, Run # 4
+Done! Beta = 9.0
+TinA(j) = 4.9452e+04; TinB(j) = 2.3819e+01; T_OmegaAB(j) = 5.2463e+02; rateAB = 4.0000e-05(j);
+TlastA(j) = 4.9825e+04; TlastB(j) = 1.7542e+02;
+rhoA(j) = 9.9649e-01; rhoB(j) = 3.5084e-03;
+kA(j) = 4.0141e-05; kB(j) = 1.1401e-02;
+AB_event_counter(j) = 2;
+START near MIN 0
+Beta = 9.0, Run # 5
+Done! Beta = 9.0
+TinA(j) = 4.9228e+04; TinB(j) = 0.0000e+00; T_OmegaAB(j) = 7.7174e+02; rateAB = 0.0000e+00(j);
+TlastA(j) = 5.0000e+04; TlastB(j) = 0.0000e+00;
+rhoA(j) = 1.0000e+00; rhoB(j) = 0.0000e+00;
+kA(j) = 0.0000e+00; kB(j) = nan;
+AB_event_counter(j) = 0;
+START near MIN 0
+Beta = 9.0, Run # 6
+Done! Beta = 9.0
+TinA(j) = 4.9242e+04; TinB(j) = 9.8434e+01; T_OmegaAB(j) = 6.5933e+02; rateAB = 1.2000e-04(j);
+TlastA(j) = 4.9743e+04; TlastB(j) = 2.5716e+02;
+rhoA(j) = 9.9486e-01; rhoB(j) = 5.1431e-03;
+kA(j) = 1.2062e-04; kB(j) = 2.3332e-02;
+AB_event_counter(j) = 6;
+START near MIN 0
+Beta = 9.0, Run # 7
+Done! Beta = 9.0
+TinA(j) = 4.9062e+04; TinB(j) = 1.1155e+02; T_OmegaAB(j) = 8.2646e+02; rateAB = 1.2000e-04(j);
+TlastA(j) = 4.9674e+04; TlastB(j) = 3.2595e+02;
+rhoA(j) = 9.9348e-01; rhoB(j) = 6.5190e-03;
+kA(j) = 1.2079e-04; kB(j) = 1.8408e-02;
+AB_event_counter(j) = 6;
+START near MIN 0
+Beta = 9.0, Run # 8
+Done! Beta = 9.0
+TinA(j) = 4.9435e+04; TinB(j) = 4.1219e+00; T_OmegaAB(j) = 5.6063e+02; rateAB = 6.0000e-05(j);
+TlastA(j) = 4.9933e+04; TlastB(j) = 6.7005e+01;
+rhoA(j) = 9.9866e-01; rhoB(j) = 1.3401e-03;
+kA(j) = 6.0081e-05; kB(j) = 4.4773e-02;
+AB_event_counter(j) = 3;
+START near MIN 0
+Beta = 9.0, Run # 9
+Done! Beta = 9.0
+TinA(j) = 4.9190e+04; TinB(j) = 2.1908e+01; T_OmegaAB(j) = 7.8859e+02; rateAB = 8.0000e-05(j);
+TlastA(j) = 4.9926e+04; TlastB(j) = 7.4360e+01;
+rhoA(j) = 9.9851e-01; rhoB(j) = 1.4872e-03;
+kA(j) = 8.0119e-05; kB(j) = 5.3793e-02;
+AB_event_counter(j) = 4;
+CPU time = 16497.3
+
+AB_event_counter
+3.0000e+00
+0.0000e+00
+6.0000e+00
+1.0000e+00
+2.0000e+00
+0.0000e+00
+6.0000e+00
+6.0000e+00
+3.0000e+00
+4.0000e+00
+Mean = 3.1000e+00
+Standard deviation = 2.3781e+00
+
+TinA
+4.8980e+04
+4.9529e+04
+4.8658e+04
+4.9480e+04
+4.9452e+04
+4.9228e+04
+4.9242e+04
+4.9062e+04
+4.9435e+04
+4.9190e+04
+Mean = 4.9226e+04
+Standard deviation = 2.7131e+02
+
+TinB
+6.7709e+01
+0.0000e+00
+2.8107e+02
+1.9314e+01
+2.3819e+01
+0.0000e+00
+9.8434e+01
+1.1155e+02
+4.1219e+00
+2.1908e+01
+Mean = 6.2793e+01
+Standard deviation = 8.6747e+01
+
+TlastA
+4.9841e+04
+5.0000e+04
+4.9482e+04
+4.9963e+04
+4.9825e+04
+5.0000e+04
+4.9743e+04
+4.9674e+04
+4.9933e+04
+4.9926e+04
+Mean = 4.9839e+04
+Standard deviation = 1.6588e+02
+
+TlastB
+1.5899e+02
+0.0000e+00
+5.1808e+02
+3.7362e+01
+1.7542e+02
+0.0000e+00
+2.5716e+02
+3.2595e+02
+6.7005e+01
+7.4360e+01
+Mean = 1.6143e+02
+Standard deviation = 1.6588e+02
