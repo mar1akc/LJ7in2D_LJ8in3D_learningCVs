@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 5.0, Run # 0
+Done! Beta = 5.0
+TinA(j) = 1.6533e+04; TinB(j) = 2.5595e+03; T_OmegaAB(j) = 3.0908e+04; rateAB = 4.1720e-02(j);
+TlastA(j) = 3.0938e+04; TlastB(j) = 1.9062e+04;
+rhoA(j) = 6.1877e-01; rhoB(j) = 3.8123e-01;
+kA(j) = 6.7424e-02; kB(j) = 1.0943e-01;
+AB_event_counter(j) = 2086;
+START near MIN 0
+Beta = 5.0, Run # 1
+Done! Beta = 5.0
+TinA(j) = 1.6679e+04; TinB(j) = 2.4508e+03; T_OmegaAB(j) = 3.0870e+04; rateAB = 4.1000e-02(j);
+TlastA(j) = 3.1051e+04; TlastB(j) = 1.8948e+04;
+rhoA(j) = 6.2102e-01; rhoB(j) = 3.7897e-01;
+kA(j) = 6.6020e-02; kB(j) = 1.0819e-01;
+AB_event_counter(j) = 2050;
+START near MIN 0
+Beta = 5.0, Run # 2
+Done! Beta = 5.0
+TinA(j) = 1.6291e+04; TinB(j) = 2.5627e+03; T_OmegaAB(j) = 3.1147e+04; rateAB = 4.1620e-02(j);
+TlastA(j) = 3.0703e+04; TlastB(j) = 1.9297e+04;
+rhoA(j) = 6.1405e-01; rhoB(j) = 3.8595e-01;
+kA(j) = 6.7779e-02; kB(j) = 1.0784e-01;
+AB_event_counter(j) = 2081;
+START near MIN 0
+Beta = 5.0, Run # 3
+Done! Beta = 5.0
+TinA(j) = 1.6485e+04; TinB(j) = 2.5702e+03; T_OmegaAB(j) = 3.0945e+04; rateAB = 4.1960e-02(j);
+TlastA(j) = 3.0715e+04; TlastB(j) = 1.9285e+04;
+rhoA(j) = 6.1429e-01; rhoB(j) = 3.8571e-01;
+kA(j) = 6.8306e-02; kB(j) = 1.0879e-01;
+AB_event_counter(j) = 2098;
+START near MIN 0
+Beta = 5.0, Run # 4
+Done! Beta = 5.0
+TinA(j) = 1.6744e+04; TinB(j) = 2.4136e+03; T_OmegaAB(j) = 3.0842e+04; rateAB = 4.2480e-02(j);
+TlastA(j) = 3.1153e+04; TlastB(j) = 1.8847e+04;
+rhoA(j) = 6.2306e-01; rhoB(j) = 3.7693e-01;
+kA(j) = 6.8180e-02; kB(j) = 1.1270e-01;
+AB_event_counter(j) = 2124;
+START near MIN 0
+Beta = 5.0, Run # 5
+Done! Beta = 5.0
+TinA(j) = 1.6731e+04; TinB(j) = 2.4414e+03; T_OmegaAB(j) = 3.0828e+04; rateAB = 4.1540e-02(j);
+TlastA(j) = 3.1173e+04; TlastB(j) = 1.8827e+04;
+rhoA(j) = 6.2345e-01; rhoB(j) = 3.7655e-01;
+kA(j) = 6.6629e-02; kB(j) = 1.1032e-01;
+AB_event_counter(j) = 2077;
+START near MIN 0
+Beta = 5.0, Run # 6
+Done! Beta = 5.0
+TinA(j) = 1.6370e+04; TinB(j) = 2.6360e+03; T_OmegaAB(j) = 3.0994e+04; rateAB = 4.1260e-02(j);
+TlastA(j) = 3.0513e+04; TlastB(j) = 1.9487e+04;
+rhoA(j) = 6.1027e-01; rhoB(j) = 3.8973e-01;
+kA(j) = 6.7610e-02; kB(j) = 1.0587e-01;
+AB_event_counter(j) = 2063;
+START near MIN 0
+Beta = 5.0, Run # 7
+Done! Beta = 5.0
+TinA(j) = 1.6508e+04; TinB(j) = 2.4361e+03; T_OmegaAB(j) = 3.1056e+04; rateAB = 4.1620e-02(j);
+TlastA(j) = 3.0922e+04; TlastB(j) = 1.9078e+04;
+rhoA(j) = 6.1845e-01; rhoB(j) = 3.8155e-01;
+kA(j) = 6.7298e-02; kB(j) = 1.0908e-01;
+AB_event_counter(j) = 2081;
+START near MIN 0
+Beta = 5.0, Run # 8
+Done! Beta = 5.0
+TinA(j) = 1.6316e+04; TinB(j) = 2.5890e+03; T_OmegaAB(j) = 3.1095e+04; rateAB = 4.1720e-02(j);
+TlastA(j) = 3.0549e+04; TlastB(j) = 1.9448e+04;
+rhoA(j) = 6.1099e-01; rhoB(j) = 3.8896e-01;
+kA(j) = 6.8283e-02; kB(j) = 1.0726e-01;
+AB_event_counter(j) = 2086;
+START near MIN 0
+Beta = 5.0, Run # 9
+Done! Beta = 5.0
+TinA(j) = 1.6297e+04; TinB(j) = 2.6329e+03; T_OmegaAB(j) = 3.1070e+04; rateAB = 4.1920e-02(j);
+TlastA(j) = 3.0463e+04; TlastB(j) = 1.9537e+04;
+rhoA(j) = 6.0926e-01; rhoB(j) = 3.9073e-01;
+kA(j) = 6.8805e-02; kB(j) = 1.0729e-01;
+AB_event_counter(j) = 2096;
+CPU time = 13849.6
+
+AB_event_counter
+2.0860e+03
+2.0500e+03
+2.0810e+03
+2.0980e+03
+2.1240e+03
+2.0770e+03
+2.0630e+03
+2.0810e+03
+2.0860e+03
+2.0960e+03
+Mean = 2.0842e+03
+Standard deviation = 2.0032e+01
+
+TinA
+1.6533e+04
+1.6679e+04
+1.6291e+04
+1.6485e+04
+1.6744e+04
+1.6731e+04
+1.6370e+04
+1.6508e+04
+1.6316e+04
+1.6297e+04
+Mean = 1.6495e+04
+Standard deviation = 1.7705e+02
+
+TinB
+2.5595e+03
+2.4508e+03
+2.5627e+03
+2.5702e+03
+2.4136e+03
+2.4414e+03
+2.6360e+03
+2.4361e+03
+2.5890e+03
+2.6329e+03
+Mean = 2.5292e+03
+Standard deviation = 8.5217e+01
+
+TlastA
+3.0938e+04
+3.1051e+04
+3.0703e+04
+3.0715e+04
+3.1153e+04
+3.1173e+04
+3.0513e+04
+3.0922e+04
+3.0549e+04
+3.0463e+04
+Mean = 3.0818e+04
+Standard deviation = 2.6517e+02
+
+TlastB
+1.9062e+04
+1.8948e+04
+1.9297e+04
+1.9285e+04
+1.8847e+04
+1.8827e+04
+1.9487e+04
+1.9078e+04
+1.9448e+04
+1.9537e+04
+Mean = 1.9182e+04
+Standard deviation = 2.6490e+02

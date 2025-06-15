@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 9.0, Run # 0
+Done! Beta = 9.0
+TinA(j) = 3.7357e+04; TinB(j) = 9.0982e+01; T_OmegaAB(j) = 1.2552e+04; rateAB = 1.4000e-04(j);
+TlastA(j) = 4.9759e+04; TlastB(j) = 2.4080e+02;
+rhoA(j) = 9.9518e-01; rhoB(j) = 4.8159e-03;
+kA(j) = 1.4068e-04; kB(j) = 2.9070e-02;
+AB_event_counter(j) = 7;
+START near MIN 0
+Beta = 9.0, Run # 1
+Done! Beta = 9.0
+TinA(j) = 3.7112e+04; TinB(j) = 1.2025e+00; T_OmegaAB(j) = 1.2887e+04; rateAB = 2.4000e-04(j);
+TlastA(j) = 4.9629e+04; TlastB(j) = 3.7109e+02;
+rhoA(j) = 9.9258e-01; rhoB(j) = 7.4218e-03;
+kA(j) = 2.4179e-04; kB(j) = 3.2337e-02;
+AB_event_counter(j) = 12;
+START near MIN 0
+Beta = 9.0, Run # 2
+Done! Beta = 9.0
+TinA(j) = 3.7035e+04; TinB(j) = 4.0464e+00; T_OmegaAB(j) = 1.2961e+04; rateAB = 3.2000e-04(j);
+TlastA(j) = 4.9498e+04; TlastB(j) = 5.0159e+02;
+rhoA(j) = 9.8997e-01; rhoB(j) = 1.0032e-02;
+kA(j) = 3.2324e-04; kB(j) = 3.1899e-02;
+AB_event_counter(j) = 16;
+START near MIN 0
+Beta = 9.0, Run # 3
+Done! Beta = 9.0
+TinA(j) = 3.7247e+04; TinB(j) = 1.0655e+01; T_OmegaAB(j) = 1.2742e+04; rateAB = 2.6000e-04(j);
+TlastA(j) = 4.9681e+04; TlastB(j) = 3.1898e+02;
+rhoA(j) = 9.9362e-01; rhoB(j) = 6.3796e-03;
+kA(j) = 2.6167e-04; kB(j) = 4.0755e-02;
+AB_event_counter(j) = 13;
+START near MIN 0
+Beta = 9.0, Run # 4
+Done! Beta = 9.0
+TinA(j) = 3.7377e+04; TinB(j) = 6.4558e+00; T_OmegaAB(j) = 1.2617e+04; rateAB = 1.4000e-04(j);
+TlastA(j) = 4.9890e+04; TlastB(j) = 1.1023e+02;
+rhoA(j) = 9.9780e-01; rhoB(j) = 2.2045e-03;
+kA(j) = 1.4031e-04; kB(j) = 6.3506e-02;
+AB_event_counter(j) = 7;
+START near MIN 0
+Beta = 9.0, Run # 5
+Done! Beta = 9.0
+TinA(j) = 3.7189e+04; TinB(j) = 9.8844e+01; T_OmegaAB(j) = 1.2712e+04; rateAB = 2.0000e-04(j);
+TlastA(j) = 4.9642e+04; TlastB(j) = 3.5834e+02;
+rhoA(j) = 9.9283e-01; rhoB(j) = 7.1669e-03;
+kA(j) = 2.0144e-04; kB(j) = 2.7906e-02;
+AB_event_counter(j) = 10;
+START near MIN 0
+Beta = 9.0, Run # 6
+Done! Beta = 9.0
+TinA(j) = 3.7483e+04; TinB(j) = 9.3050e-02; T_OmegaAB(j) = 1.2516e+04; rateAB = 1.0000e-04(j);
+TlastA(j) = 4.9965e+04; TlastB(j) = 3.4998e+01;
+rhoA(j) = 9.9930e-01; rhoB(j) = 6.9997e-04;
+kA(j) = 1.0007e-04; kB(j) = 1.4286e-01;
+AB_event_counter(j) = 5;
+START near MIN 0
+Beta = 9.0, Run # 7
+Done! Beta = 9.0
+TinA(j) = 3.7237e+04; TinB(j) = 1.0340e+02; T_OmegaAB(j) = 1.2660e+04; rateAB = 1.8000e-04(j);
+TlastA(j) = 4.9671e+04; TlastB(j) = 3.2915e+02;
+rhoA(j) = 9.9342e-01; rhoB(j) = 6.5830e-03;
+kA(j) = 1.8119e-04; kB(j) = 2.7343e-02;
+AB_event_counter(j) = 9;
+START near MIN 0
+Beta = 9.0, Run # 8
+Done! Beta = 9.0
+TinA(j) = 3.7124e+04; TinB(j) = 9.0520e-01; T_OmegaAB(j) = 1.2875e+04; rateAB = 2.8000e-04(j);
+TlastA(j) = 4.9780e+04; TlastB(j) = 2.2027e+02;
+rhoA(j) = 9.9559e-01; rhoB(j) = 4.4054e-03;
+kA(j) = 2.8124e-04; kB(j) = 6.3559e-02;
+AB_event_counter(j) = 14;
+START near MIN 0
+Beta = 9.0, Run # 9
+Done! Beta = 9.0
+TinA(j) = 3.7062e+04; TinB(j) = 5.8314e+01; T_OmegaAB(j) = 1.2879e+04; rateAB = 2.6000e-04(j);
+TlastA(j) = 4.9663e+04; TlastB(j) = 3.3716e+02;
+rhoA(j) = 9.9326e-01; rhoB(j) = 6.7432e-03;
+kA(j) = 2.6177e-04; kB(j) = 3.8558e-02;
+AB_event_counter(j) = 13;
+CPU time = 22261.4
+
+AB_event_counter
+7.0000e+00
+1.2000e+01
+1.6000e+01
+1.3000e+01
+7.0000e+00
+1.0000e+01
+5.0000e+00
+9.0000e+00
+1.4000e+01
+1.3000e+01
+Mean = 1.0600e+01
+Standard deviation = 3.5653e+00
+
+TinA
+3.7357e+04
+3.7112e+04
+3.7035e+04
+3.7247e+04
+3.7377e+04
+3.7189e+04
+3.7483e+04
+3.7237e+04
+3.7124e+04
+3.7062e+04
+Mean = 3.7222e+04
+Standard deviation = 1.4713e+02
+
+TinB
+9.0982e+01
+1.2025e+00
+4.0464e+00
+1.0655e+01
+6.4558e+00
+9.8844e+01
+9.3050e-02
+1.0340e+02
+9.0520e-01
+5.8314e+01
+Mean = 3.7490e+01
+Standard deviation = 4.5042e+01
+
+TlastA
+4.9759e+04
+4.9629e+04
+4.9498e+04
+4.9681e+04
+4.9890e+04
+4.9642e+04
+4.9965e+04
+4.9671e+04
+4.9780e+04
+4.9663e+04
+Mean = 4.9718e+04
+Standard deviation = 1.3525e+02
+
+TlastB
+2.4080e+02
+3.7109e+02
+5.0159e+02
+3.1898e+02
+1.1023e+02
+3.5834e+02
+3.4998e+01
+3.2915e+02
+2.2027e+02
+3.3716e+02
+Mean = 2.8226e+02
+Standard deviation = 1.3525e+02

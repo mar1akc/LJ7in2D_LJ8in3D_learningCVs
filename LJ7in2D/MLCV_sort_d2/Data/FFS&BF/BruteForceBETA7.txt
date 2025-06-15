@@ -1,0 +1,151 @@
+START near MIN 0
+Beta = 7.0, Run # 0
+Done! Beta = 7.0
+TinA(j) = 4.2153e+04; TinB(j) = 4.2150e+02; T_OmegaAB(j) = 7.4257e+03; rateAB = 3.8600e-03(j);
+TlastA(j) = 4.6750e+04; TlastB(j) = 3.2500e+03;
+rhoA(j) = 9.3500e-01; rhoB(j) = 6.5000e-02;
+kA(j) = 4.1283e-03; kB(j) = 5.9385e-02;
+AB_event_counter(j) = 193;
+START near MIN 0
+Beta = 7.0, Run # 1
+Done! Beta = 7.0
+TinA(j) = 4.2635e+04; TinB(j) = 3.6363e+02; T_OmegaAB(j) = 7.0013e+03; rateAB = 3.6600e-03(j);
+TlastA(j) = 4.7232e+04; TlastB(j) = 2.7682e+03;
+rhoA(j) = 9.4464e-01; rhoB(j) = 5.5365e-02;
+kA(j) = 3.8745e-03; kB(j) = 6.6107e-02;
+AB_event_counter(j) = 183;
+START near MIN 0
+Beta = 7.0, Run # 2
+Done! Beta = 7.0
+TinA(j) = 4.2738e+04; TinB(j) = 4.3777e+02; T_OmegaAB(j) = 6.8239e+03; rateAB = 3.8400e-03(j);
+TlastA(j) = 4.7114e+04; TlastB(j) = 2.8857e+03;
+rhoA(j) = 9.4229e-01; rhoB(j) = 5.7714e-02;
+kA(j) = 4.0752e-03; kB(j) = 6.6535e-02;
+AB_event_counter(j) = 192;
+START near MIN 0
+Beta = 7.0, Run # 3
+Done! Beta = 7.0
+TinA(j) = 4.2327e+04; TinB(j) = 5.4968e+02; T_OmegaAB(j) = 7.1232e+03; rateAB = 4.0000e-03(j);
+TlastA(j) = 4.6785e+04; TlastB(j) = 3.2152e+03;
+rhoA(j) = 9.3570e-01; rhoB(j) = 6.4305e-02;
+kA(j) = 4.2749e-03; kB(j) = 6.2204e-02;
+AB_event_counter(j) = 200;
+START near MIN 0
+Beta = 7.0, Run # 4
+Done! Beta = 7.0
+TinA(j) = 4.2948e+04; TinB(j) = 3.4474e+02; T_OmegaAB(j) = 6.7070e+03; rateAB = 3.4800e-03(j);
+TlastA(j) = 4.7335e+04; TlastB(j) = 2.6649e+03;
+rhoA(j) = 9.4670e-01; rhoB(j) = 5.3299e-02;
+kA(j) = 3.6759e-03; kB(j) = 6.5292e-02;
+AB_event_counter(j) = 174;
+START near MIN 0
+Beta = 7.0, Run # 5
+Done! Beta = 7.0
+TinA(j) = 4.2993e+04; TinB(j) = 3.8400e+02; T_OmegaAB(j) = 6.6233e+03; rateAB = 3.5800e-03(j);
+TlastA(j) = 4.7448e+04; TlastB(j) = 2.5517e+03;
+rhoA(j) = 9.4897e-01; rhoB(j) = 5.1035e-02;
+kA(j) = 3.7725e-03; kB(j) = 7.0148e-02;
+AB_event_counter(j) = 179;
+START near MIN 0
+Beta = 7.0, Run # 6
+Done! Beta = 7.0
+TinA(j) = 4.2492e+04; TinB(j) = 3.6256e+02; T_OmegaAB(j) = 7.1454e+03; rateAB = 4.2000e-03(j);
+TlastA(j) = 4.6942e+04; TlastB(j) = 3.0556e+03;
+rhoA(j) = 9.3883e-01; rhoB(j) = 6.1112e-02;
+kA(j) = 4.4736e-03; kB(j) = 6.8726e-02;
+AB_event_counter(j) = 210;
+START near MIN 0
+Beta = 7.0, Run # 7
+Done! Beta = 7.0
+TinA(j) = 4.2609e+04; TinB(j) = 3.8814e+02; T_OmegaAB(j) = 7.0032e+03; rateAB = 3.8200e-03(j);
+TlastA(j) = 4.7114e+04; TlastB(j) = 2.8864e+03;
+rhoA(j) = 9.4227e-01; rhoB(j) = 5.7729e-02;
+kA(j) = 4.0540e-03; kB(j) = 6.6171e-02;
+AB_event_counter(j) = 191;
+START near MIN 0
+Beta = 7.0, Run # 8
+Done! Beta = 7.0
+TinA(j) = 4.2589e+04; TinB(j) = 4.9851e+02; T_OmegaAB(j) = 6.9126e+03; rateAB = 3.7800e-03(j);
+TlastA(j) = 4.6969e+04; TlastB(j) = 3.0314e+03;
+rhoA(j) = 9.3937e-01; rhoB(j) = 6.0629e-02;
+kA(j) = 4.0240e-03; kB(j) = 6.2347e-02;
+AB_event_counter(j) = 189;
+START near MIN 0
+Beta = 7.0, Run # 9
+Done! Beta = 7.0
+TinA(j) = 4.2549e+04; TinB(j) = 4.2429e+02; T_OmegaAB(j) = 7.0270e+03; rateAB = 3.6800e-03(j);
+TlastA(j) = 4.7115e+04; TlastB(j) = 2.8846e+03;
+rhoA(j) = 9.4231e-01; rhoB(j) = 5.7693e-02;
+kA(j) = 3.9053e-03; kB(j) = 6.3786e-02;
+AB_event_counter(j) = 184;
+CPU time = 15906.5
+
+AB_event_counter
+1.9300e+02
+1.8300e+02
+1.9200e+02
+2.0000e+02
+1.7400e+02
+1.7900e+02
+2.1000e+02
+1.9100e+02
+1.8900e+02
+1.8400e+02
+Mean = 1.8950e+02
+Standard deviation = 1.0406e+01
+
+TinA
+4.2153e+04
+4.2635e+04
+4.2738e+04
+4.2327e+04
+4.2948e+04
+4.2993e+04
+4.2492e+04
+4.2609e+04
+4.2589e+04
+4.2549e+04
+Mean = 4.2603e+04
+Standard deviation = 2.5486e+02
+
+TinB
+4.2150e+02
+3.6363e+02
+4.3777e+02
+5.4968e+02
+3.4474e+02
+3.8400e+02
+3.6256e+02
+3.8814e+02
+4.9851e+02
+4.2429e+02
+Mean = 4.1748e+02
+Standard deviation = 6.4726e+01
+
+TlastA
+4.6750e+04
+4.7232e+04
+4.7114e+04
+4.6785e+04
+4.7335e+04
+4.7448e+04
+4.6942e+04
+4.7114e+04
+4.6969e+04
+4.7115e+04
+Mean = 4.7080e+04
+Standard deviation = 2.2481e+02
+
+TlastB
+3.2500e+03
+2.7682e+03
+2.8857e+03
+3.2152e+03
+2.6649e+03
+2.5517e+03
+3.0556e+03
+2.8864e+03
+3.0314e+03
+2.8846e+03
+Mean = 2.9194e+03
+Standard deviation = 2.2462e+02
