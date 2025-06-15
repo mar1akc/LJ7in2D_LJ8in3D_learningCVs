@@ -1,0 +1,9 @@
+>> brute_force_results
+mean kA = 1.036650e+00, std = 1.189755e-02
+mean kB = 1.616030e-01, std = 6.034784e-03
+mean rhoA = 1.348500e-01, std = 4.282390e-03
+mean rhoB = 8.651500e-01, std = 4.282390e-03
+mean AB_event_counter = 6.989400e+03, std = 2.272777e+02
+
+
+From Min 1 to Min 0

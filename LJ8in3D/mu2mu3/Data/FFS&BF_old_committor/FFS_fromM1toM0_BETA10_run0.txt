@@ -1,0 +1,444 @@
+BETA = 10.00
+NEXIT = 10000
+Milestones:
+2.0000e-02
+7.0526e-02
+1.2105e-01
+1.7158e-01
+2.2211e-01
+2.7263e-01
+3.2316e-01
+3.7368e-01
+4.2421e-01
+4.7474e-01
+5.2526e-01
+5.7579e-01
+6.2632e-01
+6.7684e-01
+7.2737e-01
+7.7789e-01
+8.2842e-01
+8.7895e-01
+9.2947e-01
+9.8000e-01
+Run 0: from min 0 to min 1
+0	1.6035e+02
+1	7.3407e-02
+2	6.5449e-01
+3	7.9346e-01
+4	8.5404e-01
+5	8.7382e-01
+6	8.8402e-01
+7	8.9896e-01
+8	9.1743e-01
+9	9.2149e-01
+10	9.2208e-01
+11	9.2481e-01
+12	9.2234e-01
+13	9.2064e-01
+14	9.1844e-01
+15	9.1870e-01
+16	9.1617e-01
+17	8.9767e-01
+18	8.6274e-01
+19	6.8790e-01
+Escape_rate = 9.1393e-01
+CPU time = 51.9347
+Run 1: from min 0 to min 1
+0	1.7027e+02
+1	7.1190e-02
+2	6.5407e-01
+3	7.8920e-01
+4	8.5800e-01
+5	8.7481e-01
+6	8.8598e-01
+7	9.0131e-01
+8	9.1500e-01
+9	9.2073e-01
+10	9.2132e-01
+11	9.2653e-01
+12	9.2123e-01
+13	9.1208e-01
+14	9.2098e-01
+15	9.2123e-01
+16	9.0975e-01
+17	9.0171e-01
+18	8.6371e-01
+19	6.8677e-01
+Escape_rate = 9.3559e-01
+CPU time = 52.2602
+Run 2: from min 0 to min 1
+0	1.6140e+02
+1	7.3209e-02
+2	6.5963e-01
+3	7.9133e-01
+4	8.5660e-01
+5	8.7550e-01
+6	8.8928e-01
+7	9.0131e-01
+8	9.1358e-01
+9	9.2140e-01
+10	9.2242e-01
+11	9.2515e-01
+12	9.2217e-01
+13	9.1988e-01
+14	9.2370e-01
+15	9.1274e-01
+16	9.0851e-01
+17	8.9638e-01
+18	8.5485e-01
+19	6.8325e-01
+Escape_rate = 9.0599e-01
+CPU time = 53.0282
+Run 3: from min 0 to min 1
+0	1.7413e+02
+1	7.1239e-02
+2	6.4512e-01
+3	7.8827e-01
+4	8.4890e-01
+5	8.7382e-01
+6	8.8715e-01
+7	9.0424e-01
+8	9.1836e-01
+9	9.1634e-01
+10	9.2302e-01
+11	9.2807e-01
+12	9.2704e-01
+13	9.2362e-01
+14	9.2132e-01
+15	9.2259e-01
+16	9.1017e-01
+17	9.0179e-01
+18	8.7176e-01
+19	7.1240e-01
+Escape_rate = 1.0039e+00
+CPU time = 49.2305
+Run 4: from min 0 to min 1
+0	1.7010e+02
+1	7.1099e-02
+2	6.4512e-01
+3	7.8839e-01
+4	8.5230e-01
+5	8.7912e-01
+6	8.8238e-01
+7	9.0277e-01
+8	9.1358e-01
+9	9.1802e-01
+10	9.2166e-01
+11	9.1962e-01
+12	9.2379e-01
+13	9.2191e-01
+14	9.1760e-01
+15	9.1366e-01
+16	9.0416e-01
+17	8.9566e-01
+18	8.6185e-01
+19	6.9004e-01
+Escape_rate = 8.9740e-01
+CPU time = 52.5804
+Run 5: from min 0 to min 1
+0	1.5894e+02
+1	7.1727e-02
+2	6.4973e-01
+3	7.8858e-01
+4	8.5985e-01
+5	8.7850e-01
+6	8.8503e-01
+7	9.0123e-01
+8	9.1408e-01
+9	9.2132e-01
+10	9.1785e-01
+11	9.2056e-01
+12	9.2200e-01
+13	9.2191e-01
+14	9.1946e-01
+15	9.1533e-01
+16	9.1000e-01
+17	8.9839e-01
+18	8.6790e-01
+19	6.8339e-01
+Escape_rate = 8.6864e-01
+CPU time = 52.4748
+Run 6: from min 0 to min 1
+0	1.7796e+02
+1	6.8762e-02
+2	6.4111e-01
+3	7.8358e-01
+4	8.5092e-01
+5	8.6836e-01
+6	8.8433e-01
+7	9.0351e-01
+8	9.1199e-01
+9	9.1768e-01
+10	9.2149e-01
+11	9.2430e-01
+12	9.2293e-01
+13	9.2259e-01
+14	9.1794e-01
+15	9.1920e-01
+16	9.0621e-01
+17	8.9839e-01
+18	8.5844e-01
+19	6.8250e-01
+Escape_rate = 8.8657e-01
+CPU time = 52.7788
+Run 7: from min 0 to min 1
+0	1.6424e+02
+1	7.2305e-02
+2	6.4408e-01
+3	7.8697e-01
+4	8.4998e-01
+5	8.7466e-01
+6	8.8582e-01
+7	9.0090e-01
+8	9.1299e-01
+9	9.1811e-01
+10	9.1988e-01
+11	9.2584e-01
+12	9.2047e-01
+13	9.1929e-01
+14	9.2225e-01
+15	9.1676e-01
+16	9.1592e-01
+17	9.0220e-01
+18	8.6603e-01
+19	6.8795e-01
+Escape_rate = 8.9794e-01
+CPU time = 52.0091
+Run 8: from min 0 to min 1
+0	1.6745e+02
+1	7.3223e-02
+2	6.4238e-01
+3	7.8113e-01
+4	8.4717e-01
+5	8.6595e-01
+6	8.8652e-01
+7	9.0473e-01
+8	9.1008e-01
+9	9.1609e-01
+10	9.2421e-01
+11	9.2336e-01
+12	9.2005e-01
+13	9.2328e-01
+14	9.1920e-01
+15	9.1878e-01
+16	9.1075e-01
+17	8.9750e-01
+18	8.6319e-01
+19	6.8705e-01
+Escape_rate = 8.9572e-01
+CPU time = 52.3436
+Run 9: from min 0 to min 1
+0	1.6203e+02
+1	7.4386e-02
+2	6.5308e-01
+3	7.9133e-01
+4	8.5288e-01
+5	8.7696e-01
+6	8.8692e-01
+7	8.9920e-01
+8	9.1466e-01
+9	9.2005e-01
+10	9.2336e-01
+11	9.2200e-01
+12	9.2430e-01
+13	9.2276e-01
+14	9.1878e-01
+15	9.1735e-01
+16	9.0563e-01
+17	9.0860e-01
+18	8.6266e-01
+19	6.8672e-01
+Escape_rate = 9.3278e-01
+CPU time = 51.937
+Escape rate vector:
+9.1393e-01
+9.3559e-01
+9.0599e-01
+1.0039e+00
+8.9740e-01
+8.6864e-01
+8.8657e-01
+8.9794e-01
+8.9572e-01
+9.3278e-01
+Mean escape rate = 9.1385e-01
+Standard deviation = 3.7476e-02
+
+
+
+
+
+
+
+BRUTE FORCE
+
+(base) mariacameron@Marias-Mac-Studio mu2mu3 % gcc -Wall brute_force.c CommittorRC.c CV_helpers.c timestep_helpers.c -lm -O3
+(base) mariacameron@Marias-Mac-Studio mu2mu3 % ./a.out
+In readRCdata
+NNRC dimensions: 2 -> 10 -> 10 -> 10 -> 1
+opened file FEMdataBETA10/Committor_mu2mu3_3hidden_BETA10/RC_NNdata.txt
+opened file FEMdataBETA10/Committor_mu2mu3_3hidden_BETA10/RC_NNdata.txt
+Beta = 10.0, Run # 0
+In run_trajectory
+In run_trajectory, RCval = 1.1035e-02
+Done! Beta = 10.0
+TinA(j) = 2.4343e+03; TinB(j) = 3.8336e+04; T_OmegaAB(j) = 9.2294e+03; rateAB = 1.3956e-01(j);
+TlastA(j) = 6.7080e+03; TlastB(j) = 4.3292e+04;
+rhoA(j) = 1.3416e-01; rhoB(j) = 8.6584e-01;
+kA(j) = 1.0403e+00; kB(j) = 1.6118e-01;
+AB_event_counter(j) = 6978;
+Beta = 10.0, Run # 1
+In run_trajectory
+In run_trajectory, RCval = 9.9794e-01
+Done! Beta = 10.0
+TinA(j) = 2.5902e+03; TinB(j) = 3.7792e+04; T_OmegaAB(j) = 9.6175e+03; rateAB = 1.4864e-01(j);
+TlastA(j) = 7.1590e+03; TlastB(j) = 4.2841e+04;
+rhoA(j) = 1.4318e-01; rhoB(j) = 8.5682e-01;
+kA(j) = 1.0381e+00; kB(j) = 1.7348e-01;
+AB_event_counter(j) = 7432;
+Beta = 10.0, Run # 2
+In run_trajectory
+In run_trajectory, RCval = 9.9709e-01
+Done! Beta = 10.0
+TinA(j) = 2.3710e+03; TinB(j) = 3.8473e+04; T_OmegaAB(j) = 9.1557e+03; rateAB = 1.3856e-01(j);
+TlastA(j) = 6.5746e+03; TlastB(j) = 4.3425e+04;
+rhoA(j) = 1.3149e-01; rhoB(j) = 8.6851e-01;
+kA(j) = 1.0538e+00; kB(j) = 1.5954e-01;
+AB_event_counter(j) = 6928;
+Beta = 10.0, Run # 3
+In run_trajectory
+In run_trajectory, RCval = 9.9918e-01
+Done! Beta = 10.0
+TinA(j) = 2.3746e+03; TinB(j) = 3.8529e+04; T_OmegaAB(j) = 9.0966e+03; rateAB = 1.3570e-01(j);
+TlastA(j) = 6.5677e+03; TlastB(j) = 4.3432e+04;
+rhoA(j) = 1.3135e-01; rhoB(j) = 8.6865e-01;
+kA(j) = 1.0331e+00; kB(j) = 1.5622e-01;
+AB_event_counter(j) = 6785;
+Beta = 10.0, Run # 4
+In run_trajectory
+In run_trajectory, RCval = 9.9955e-01
+Done! Beta = 10.0
+TinA(j) = 2.4427e+03; TinB(j) = 3.8333e+04; T_OmegaAB(j) = 9.2243e+03; rateAB = 1.3976e-01(j);
+TlastA(j) = 6.7357e+03; TlastB(j) = 4.3264e+04;
+rhoA(j) = 1.3471e-01; rhoB(j) = 8.6529e-01;
+kA(j) = 1.0375e+00; kB(j) = 1.6152e-01;
+AB_event_counter(j) = 6988;
+Beta = 10.0, Run # 5
+In run_trajectory
+In run_trajectory, RCval = 9.9254e-01
+Done! Beta = 10.0
+TinA(j) = 2.3695e+03; TinB(j) = 3.8595e+04; T_OmegaAB(j) = 9.0358e+03; rateAB = 1.3258e-01(j);
+TlastA(j) = 6.5528e+03; TlastB(j) = 4.3447e+04;
+rhoA(j) = 1.3106e-01; rhoB(j) = 8.6894e-01;
+kA(j) = 1.0116e+00; kB(j) = 1.5258e-01;
+AB_event_counter(j) = 6629;
+Beta = 10.0, Run # 6
+In run_trajectory
+In run_trajectory, RCval = 9.9844e-01
+Done! Beta = 10.0
+TinA(j) = 2.3829e+03; TinB(j) = 3.8501e+04; T_OmegaAB(j) = 9.1164e+03; rateAB = 1.3834e-01(j);
+TlastA(j) = 6.5731e+03; TlastB(j) = 4.3427e+04;
+rhoA(j) = 1.3146e-01; rhoB(j) = 8.6854e-01;
+kA(j) = 1.0523e+00; kB(j) = 1.5928e-01;
+AB_event_counter(j) = 6917;
+Beta = 10.0, Run # 7
+In run_trajectory
+In run_trajectory, RCval = 9.9897e-01
+Done! Beta = 10.0
+TinA(j) = 2.5569e+03; TinB(j) = 3.7816e+04; T_OmegaAB(j) = 9.6274e+03; rateAB = 1.4512e-01(j);
+TlastA(j) = 7.0588e+03; TlastB(j) = 4.2941e+04;
+rhoA(j) = 1.4118e-01; rhoB(j) = 8.5882e-01;
+kA(j) = 1.0279e+00; kB(j) = 1.6898e-01;
+AB_event_counter(j) = 7256;
+Beta = 10.0, Run # 8
+In run_trajectory
+In run_trajectory, RCval = 9.9905e-01
+Done! Beta = 10.0
+TinA(j) = 2.4185e+03; TinB(j) = 3.8406e+04; T_OmegaAB(j) = 9.1753e+03; rateAB = 1.3796e-01(j);
+TlastA(j) = 6.6634e+03; TlastB(j) = 4.3337e+04;
+rhoA(j) = 1.3327e-01; rhoB(j) = 8.6673e-01;
+kA(j) = 1.0352e+00; kB(j) = 1.5917e-01;
+AB_event_counter(j) = 6898;
+Beta = 10.0, Run # 9
+In run_trajectory
+In run_trajectory, RCval = 9.9966e-01
+Done! Beta = 10.0
+TinA(j) = 2.4632e+03; TinB(j) = 3.8148e+04; T_OmegaAB(j) = 9.3891e+03; rateAB = 1.4166e-01(j);
+TlastA(j) = 6.8321e+03; TlastB(j) = 4.3168e+04;
+rhoA(j) = 1.3664e-01; rhoB(j) = 8.6336e-01;
+kA(j) = 1.0367e+00; kB(j) = 1.6408e-01;
+AB_event_counter(j) = 7083;
+CPU time = 9549.32
+
+AB_event_counter
+6.9780e+03
+7.4320e+03
+6.9280e+03
+6.7850e+03
+6.9880e+03
+6.6290e+03
+6.9170e+03
+7.2560e+03
+6.8980e+03
+7.0830e+03
+Mean escape rate = 6.9894e+03
+Standard deviation = 2.2728e+02
+
+TinA
+2.4343e+03
+2.5902e+03
+2.3710e+03
+2.3746e+03
+2.4427e+03
+2.3695e+03
+2.3829e+03
+2.5569e+03
+2.4185e+03
+2.4632e+03
+Mean escape rate = 2.4404e+03
+Standard deviation = 7.7839e+01
+
+TinB
+3.8336e+04
+3.7792e+04
+3.8473e+04
+3.8529e+04
+3.8333e+04
+3.8595e+04
+3.8501e+04
+3.7816e+04
+3.8406e+04
+3.8148e+04
+Mean escape rate = 3.8293e+04
+Standard deviation = 2.8639e+02
+
+TlastA
+6.7080e+03
+7.1590e+03
+6.5746e+03
+6.5677e+03
+6.7357e+03
+6.5528e+03
+6.5731e+03
+7.0588e+03
+6.6634e+03
+6.8321e+03
+Mean escape rate = 6.7425e+03
+Standard deviation = 2.1408e+02
+
+TinB
+4.3292e+04
+4.2841e+04
+4.3425e+04
+4.3432e+04
+4.3264e+04
+4.3447e+04
+4.3427e+04
+4.2941e+04
+4.3337e+04
+4.3168e+04
+Mean escape rate = 4.3257e+04
+Standard deviation = 2.1408e+02
+(base) mariacameron@Marias-Mac-Studio mu2mu3 % 
+

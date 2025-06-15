@@ -1,0 +1,151 @@
+START near MIN 1
+Beta = 20.0, Run # 0
+Done! Beta = 20.0
+TinA(j) = 2.4732e+03; TinB(j) = 4.0975e+04; T_OmegaAB(j) = 6.5519e+03; rateAB = 4.3200e-03(j);
+TlastA(j) = 8.6425e+03; TlastB(j) = 4.1358e+04;
+rhoA(j) = 1.7285e-01; rhoB(j) = 8.2715e-01;
+kA(j) = 2.4993e-02; kB(j) = 5.2227e-03;
+AB_event_counter(j) = 216;
+START near MIN 1
+Beta = 20.0, Run # 1
+Done! Beta = 20.0
+TinA(j) = 8.5497e+02; TinB(j) = 4.6710e+04; T_OmegaAB(j) = 2.4350e+03; rateAB = 1.8400e-03(j);
+TlastA(j) = 2.9345e+03; TlastB(j) = 4.7066e+04;
+rhoA(j) = 5.8689e-02; rhoB(j) = 9.4131e-01;
+kA(j) = 3.1352e-02; kB(j) = 1.9547e-03;
+AB_event_counter(j) = 92;
+START near MIN 1
+Beta = 20.0, Run # 2
+Done! Beta = 20.0
+TinA(j) = 1.1316e+03; TinB(j) = 4.5647e+04; T_OmegaAB(j) = 3.2217e+03; rateAB = 2.1800e-03(j);
+TlastA(j) = 3.9924e+03; TlastB(j) = 4.6008e+04;
+rhoA(j) = 7.9848e-02; rhoB(j) = 9.2015e-01;
+kA(j) = 2.7302e-02; kB(j) = 2.3692e-03;
+AB_event_counter(j) = 109;
+START near MIN 1
+Beta = 20.0, Run # 3
+Done! Beta = 20.0
+TinA(j) = 9.3957e+02; TinB(j) = 4.6357e+04; T_OmegaAB(j) = 2.7030e+03; rateAB = 1.6200e-03(j);
+TlastA(j) = 3.2877e+03; TlastB(j) = 4.6712e+04;
+rhoA(j) = 6.5754e-02; rhoB(j) = 9.3425e-01;
+kA(j) = 2.4637e-02; kB(j) = 1.7340e-03;
+AB_event_counter(j) = 81;
+START near MIN 1
+Beta = 20.0, Run # 4
+Done! Beta = 20.0
+TinA(j) = 1.2567e+03; TinB(j) = 4.5302e+04; T_OmegaAB(j) = 3.4411e+03; rateAB = 2.3000e-03(j);
+TlastA(j) = 4.3351e+03; TlastB(j) = 4.5665e+04;
+rhoA(j) = 8.6702e-02; rhoB(j) = 9.1330e-01;
+kA(j) = 2.6528e-02; kB(j) = 2.5183e-03;
+AB_event_counter(j) = 115;
+START near MIN 1
+Beta = 20.0, Run # 5
+Done! Beta = 20.0
+TinA(j) = 2.9748e+02; TinB(j) = 4.8637e+04; T_OmegaAB(j) = 1.0655e+03; rateAB = 5.0000e-04(j);
+TlastA(j) = 1.0222e+03; TlastB(j) = 4.8978e+04;
+rhoA(j) = 2.0444e-02; rhoB(j) = 9.7956e-01;
+kA(j) = 2.4456e-02; kB(j) = 5.1044e-04;
+AB_event_counter(j) = 25;
+START near MIN 1
+Beta = 20.0, Run # 6
+Done! Beta = 20.0
+TinA(j) = 1.0768e+03; TinB(j) = 4.5893e+04; T_OmegaAB(j) = 3.0305e+03; rateAB = 1.9000e-03(j);
+TlastA(j) = 3.7444e+03; TlastB(j) = 4.6256e+04;
+rhoA(j) = 7.4889e-02; rhoB(j) = 9.2511e-01;
+kA(j) = 2.5371e-02; kB(j) = 2.0538e-03;
+AB_event_counter(j) = 95;
+START near MIN 1
+Beta = 20.0, Run # 7
+Done! Beta = 20.0
+TinA(j) = 1.0966e+03; TinB(j) = 4.5814e+04; T_OmegaAB(j) = 3.0893e+03; rateAB = 2.1200e-03(j);
+TlastA(j) = 3.8297e+03; TlastB(j) = 4.6170e+04;
+rhoA(j) = 7.6595e-02; rhoB(j) = 9.2341e-01;
+kA(j) = 2.7678e-02; kB(j) = 2.2958e-03;
+AB_event_counter(j) = 106;
+START near MIN 1
+Beta = 20.0, Run # 8
+Done! Beta = 20.0
+TinA(j) = 6.6112e+02; TinB(j) = 4.7332e+04; T_OmegaAB(j) = 2.0069e+03; rateAB = 1.0600e-03(j);
+TlastA(j) = 2.3221e+03; TlastB(j) = 4.7678e+04;
+rhoA(j) = 4.6442e-02; rhoB(j) = 9.5356e-01;
+kA(j) = 2.2824e-02; kB(j) = 1.1116e-03;
+AB_event_counter(j) = 53;
+START near MIN 1
+Beta = 20.0, Run # 9
+Done! Beta = 20.0
+TinA(j) = 2.0825e+02; TinB(j) = 4.8943e+04; T_OmegaAB(j) = 8.4847e+02; rateAB = 3.6000e-04(j);
+TlastA(j) = 7.2107e+02; TlastB(j) = 4.9279e+04;
+rhoA(j) = 1.4421e-02; rhoB(j) = 9.8558e-01;
+kA(j) = 2.4963e-02; kB(j) = 3.6527e-04;
+AB_event_counter(j) = 18;
+CPU time = 12427.7
+
+AB_event_counter
+2.1600e+02
+9.2000e+01
+1.0900e+02
+8.1000e+01
+1.1500e+02
+2.5000e+01
+9.5000e+01
+1.0600e+02
+5.3000e+01
+1.8000e+01
+Mean = 9.1000e+01
+Standard deviation = 5.5773e+01
+
+TinA
+2.4732e+03
+8.5497e+02
+1.1316e+03
+9.3957e+02
+1.2567e+03
+2.9748e+02
+1.0768e+03
+1.0966e+03
+6.6112e+02
+2.0825e+02
+Mean = 9.9964e+02
+Standard deviation = 6.2616e+02
+
+TinB
+4.0975e+04
+4.6710e+04
+4.5647e+04
+4.6357e+04
+4.5302e+04
+4.8637e+04
+4.5893e+04
+4.5814e+04
+4.7332e+04
+4.8943e+04
+Mean = 4.6161e+04
+Standard deviation = 2.2029e+03
+
+TlastA
+8.6425e+03
+2.9345e+03
+3.9924e+03
+3.2877e+03
+4.3351e+03
+1.0222e+03
+3.7444e+03
+3.8297e+03
+2.3221e+03
+7.2107e+02
+Mean = 3.4832e+03
+Standard deviation = 2.1900e+03
+
+TinB
+4.1358e+04
+4.7066e+04
+4.6008e+04
+4.6712e+04
+4.5665e+04
+4.8978e+04
+4.6256e+04
+4.6170e+04
+4.7678e+04
+4.9279e+04
+Mean = 4.6517e+04
+Standard deviation = 2.1900e+03
