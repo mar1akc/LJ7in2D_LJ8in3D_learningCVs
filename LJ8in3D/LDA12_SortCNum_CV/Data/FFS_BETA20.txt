@@ -1,0 +1,1259 @@
+BETA = 20.00
+NEXIT = 10000
+Milestones:
+1.0000e-02
+6.1579e-02
+1.1316e-01
+1.6474e-01
+2.1632e-01
+2.6789e-01
+3.1947e-01
+3.7105e-01
+4.2263e-01
+4.7421e-01
+5.2579e-01
+5.7737e-01
+6.2895e-01
+6.8053e-01
+7.3211e-01
+7.8368e-01
+8.3526e-01
+8.8684e-01
+9.3842e-01
+9.9000e-01
+Run 0: from A to B
+0	1.2406e-01
+1	4.2257e-02
+2	5.3958e-01
+3	6.9396e-01
+4	7.6982e-01
+5	7.1911e-01
+6	6.8747e-01
+7	7.5867e-01
+8	7.9271e-01
+9	8.6528e-01
+10	8.6753e-01
+11	8.7413e-01
+12	8.7032e-01
+13	8.7078e-01
+14	8.9646e-01
+15	8.9726e-01
+16	8.8668e-01
+17	8.6588e-01
+18	8.1586e-01
+19	5.5800e-01
+Escape_rate = 6.2814e-05
+CPU time = 2226.06
+Run 1: from A to B
+0	2.0743e-01
+1	4.7178e-02
+2	5.7065e-01
+3	7.1469e-01
+4	7.8518e-01
+5	7.2759e-01
+6	6.9334e-01
+7	7.6295e-01
+8	7.9662e-01
+9	8.7214e-01
+10	8.7789e-01
+11	8.7535e-01
+12	8.7344e-01
+13	8.7619e-01
+14	9.0155e-01
+15	9.0041e-01
+16	8.9381e-01
+17	8.7497e-01
+18	8.2932e-01
+19	5.8381e-01
+Escape_rate = 1.5148e-04
+CPU time = 1354.87
+Run 2: from A to B
+0	1.9507e-01
+1	4.5940e-02
+2	5.7617e-01
+3	7.1144e-01
+4	7.8253e-01
+5	7.3411e-01
+6	7.0902e-01
+7	7.6202e-01
+8	8.0315e-01
+9	8.7489e-01
+10	8.7260e-01
+11	8.7951e-01
+12	8.7589e-01
+13	8.7982e-01
+14	9.0163e-01
+15	9.0220e-01
+16	8.9000e-01
+17	8.7512e-01
+18	8.3278e-01
+19	5.7257e-01
+Escape_rate = 1.4313e-04
+CPU time = 1435.35
+Run 3: from A to B
+0	2.4020e-01
+1	4.2470e-02
+2	5.6880e-01
+3	7.1088e-01
+4	7.7119e-01
+5	7.4003e-01
+6	6.9575e-01
+7	7.5455e-01
+8	7.9783e-01
+9	8.7237e-01
+10	8.7789e-01
+11	8.7604e-01
+12	8.7207e-01
+13	8.6790e-01
+14	8.9638e-01
+15	9.0196e-01
+16	8.8613e-01
+17	8.7078e-01
+18	8.1987e-01
+19	5.7284e-01
+Escape_rate = 1.4670e-04
+CPU time = 1179.16
+Run 4: from A to B
+0	1.1018e-01
+1	4.1681e-02
+2	5.4723e-01
+3	6.8691e-01
+4	7.5552e-01
+5	7.3115e-01
+6	7.0146e-01
+7	7.5075e-01
+8	7.8629e-01
+9	8.6610e-01
+10	8.7146e-01
+11	8.7222e-01
+12	8.6723e-01
+13	8.6934e-01
+14	8.9182e-01
+15	8.9912e-01
+16	8.8700e-01
+17	8.6096e-01
+18	8.1867e-01
+19	5.5426e-01
+Escape_rate = 5.4454e-05
+CPU time = 2481.63
+Run 5: from A to B
+0	4.1550e-01
+1	4.2133e-02
+2	5.6139e-01
+3	7.0947e-01
+4	7.7785e-01
+5	7.3812e-01
+6	6.9774e-01
+7	7.5569e-01
+8	8.0334e-01
+9	8.6919e-01
+10	8.8020e-01
+11	8.7436e-01
+12	8.7382e-01
+13	8.7773e-01
+14	8.9566e-01
+15	9.0090e-01
+16	8.9326e-01
+17	8.7344e-01
+18	8.3333e-01
+19	5.8579e-01
+Escape_rate = 2.6736e-04
+CPU time = 712.362
+Run 6: from A to B
+0	1.6576e-01
+1	4.1103e-02
+2	5.4942e-01
+3	7.0388e-01
+4	7.6342e-01
+5	7.2659e-01
+6	6.9803e-01
+7	7.5409e-01
+8	8.0775e-01
+9	8.7291e-01
+10	8.7812e-01
+11	8.7420e-01
+12	8.7116e-01
+13	8.7359e-01
+14	9.0074e-01
+15	8.9960e-01
+16	8.9008e-01
+17	8.7352e-01
+18	8.2028e-01
+19	5.6402e-01
+Escape_rate = 9.2367e-05
+CPU time = 1679.4
+Run 7: from A to B
+0	2.3333e-01
+1	4.5033e-02
+2	5.7988e-01
+3	7.1979e-01
+4	7.8678e-01
+5	7.2860e-01
+6	6.9823e-01
+7	7.5683e-01
+8	8.0528e-01
+9	8.7735e-01
+10	8.7689e-01
+11	8.7920e-01
+12	8.6498e-01
+13	8.6821e-01
+14	9.0041e-01
+15	8.9904e-01
+16	8.9558e-01
+17	8.7866e-01
+18	8.2713e-01
+19	5.8545e-01
+Escape_rate = 1.6763e-04
+CPU time = 1217.04
+Run 8: from A to B
+0	1.1920e-01
+1	4.5002e-02
+2	5.6300e-01
+3	7.0383e-01
+4	7.7155e-01
+5	7.2490e-01
+6	7.0220e-01
+7	7.5896e-01
+8	8.0115e-01
+9	8.7025e-01
+10	8.7719e-01
+11	8.8370e-01
+12	8.6625e-01
+13	8.7458e-01
+14	8.9775e-01
+15	9.0025e-01
+16	8.9574e-01
+17	8.8215e-01
+18	8.2515e-01
+19	5.6747e-01
+Escape_rate = 7.7577e-05
+CPU time = 2318.37
+Run 9: from A to B
+0	1.8089e-01
+1	4.4158e-02
+2	5.6022e-01
+3	7.0691e-01
+4	7.7304e-01
+5	7.2129e-01
+6	6.8771e-01
+7	7.5148e-01
+8	7.9949e-01
+9	8.7758e-01
+10	8.7184e-01
+11	8.7504e-01
+12	8.7070e-01
+13	8.7002e-01
+14	8.9863e-01
+15	8.9831e-01
+16	8.9286e-01
+17	8.7704e-01
+18	8.3257e-01
+19	5.7081e-01
+Escape_rate = 1.1104e-04
+CPU time = 1582.85
+Escape rate vector:
+6.2814e-05
+1.5148e-04
+1.4313e-04
+1.4670e-04
+5.4454e-05
+2.6736e-04
+9.2367e-05
+1.6763e-04
+7.7577e-05
+1.1104e-04
+Mean escape rate = 1.2746e-04
+Standard deviation = 6.3138e-05
+
+>> brute_force_results
+mean kA = 4.018121e-04, std = 8.646579e-04
+mean kB = NaN, std = NaN
+mean rhoA = 9.077397e-01, std = 2.917105e-01
+mean rhoB = 9.226058e-02, std = 2.917094e-01
+mean AB_event_counter = 7, std = 6.253888e+00
+
+
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % gcc -Wall brute_force.c CommittorRC.c LDA_CoordNum_CV.c timestep_helpers.c -lm -O3
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % ./a.out
+In readLDAmatrix
+-9.3301e-02	-4.6779e-01	
+3.8500e-02	-7.6840e-01	
+-2.9430e-01	-3.8874e-02	
+-1.6710e-01	-1.6917e-01	
+8.3301e-02	2.8462e-01	
+4.1350e-01	1.9864e-01	
+-6.3901e-01	1.8489e-01	
+5.3761e-01	-7.7138e-02	
+In readRCdata
+NNRC dimensions: 2 -> 25 -> 25 -> 25 -> 1
+opened file FEMdataBETA15/Committor_min01_LDA12_BETA15/RC_NNdata.txt
+opened file FEMdataBETA15/Committor_min01_LDA12_BETA15/RC_NNdata.txt
+Beta = 20.0, Run # 0
+In run_trajectory
+In run_trajectory, RCval = 7.8106e-07
+Done! Beta = 20.0
+TinA = 4.9955e+04, TinB = 6.9300e-02, T_OmegaAB = 4.5371e+01, rateAB = 4.2000e-04
+TlastA(j) = 4.9998e+04; TlastB(j) = 1.8808e+00;
+rhoA(j) = 9.9996e-01; rhoB(j) = 3.7616e-05;
+kA(j) = 4.2002e-04; kB(j) = 1.1165e+01;
+AB_event_counter(j) = 21;
+Beta = 20.0, Run # 1
+In run_trajectory
+In run_trajectory, RCval = 5.5518e-09
+Done! Beta = 20.0
+TinA = 4.9982e+04, TinB = 2.8300e-02, T_OmegaAB = 1.7474e+01, rateAB = 1.4000e-04
+TlastA(j) = 4.9999e+04; TlastB(j) = 6.8600e-01;
+rhoA(j) = 9.9999e-01; rhoB(j) = 1.3720e-05;
+kA(j) = 1.4000e-04; kB(j) = 1.0204e+01;
+AB_event_counter(j) = 7;
+Beta = 20.0, Run # 2
+In run_trajectory
+In run_trajectory, RCval = 6.3046e-07
+Done! Beta = 20.0
+TinA = 4.9981e+04, TinB = 2.5150e-02, T_OmegaAB = 1.8530e+01, rateAB = 1.4000e-04
+TlastA(j) = 4.9999e+04; TlastB(j) = 1.2499e+00;
+rhoA(j) = 9.9998e-01; rhoB(j) = 2.4998e-05;
+kA(j) = 1.4000e-04; kB(j) = 5.6004e+00;
+AB_event_counter(j) = 7;
+Beta = 20.0, Run # 3
+In run_trajectory
+In run_trajectory, RCval = 5.7421e-07
+Done! Beta = 20.0
+TinA = 4.9987e+04, TinB = 9.5500e-03, T_OmegaAB = 1.3300e+01, rateAB = 6.0000e-05
+TlastA(j) = 5.0000e+04; TlastB(j) = 4.4025e-01;
+rhoA(j) = 9.9999e-01; rhoB(j) = 8.8050e-06;
+kA(j) = 6.0001e-05; kB(j) = 6.8143e+00;
+AB_event_counter(j) = 3;
+Beta = 20.0, Run # 4
+In run_trajectory
+In run_trajectory, RCval = 1.0063e-08
+Done! Beta = 20.0
+TinA = 4.9976e+04, TinB = 1.3850e-02, T_OmegaAB = 2.3691e+01, rateAB = 2.2000e-04
+TlastA(j) = 4.9999e+04; TlastB(j) = 1.0443e+00;
+rhoA(j) = 9.9998e-01; rhoB(j) = 2.0887e-05;
+kA(j) = 2.2000e-04; kB(j) = 1.0533e+01;
+AB_event_counter(j) = 11;
+Beta = 20.0, Run # 5
+In run_trajectory
+In run_trajectory, RCval = 7.5479e-07
+Done! Beta = 20.0
+TinA = 4.9997e+04, TinB = 0.0000e+00, T_OmegaAB = 2.8414e+00, rateAB = 0.0000e+00
+TlastA(j) = 5.0000e+04; TlastB(j) = 0.0000e+00;
+rhoA(j) = 1.0000e+00; rhoB(j) = 0.0000e+00;
+kA(j) = 0.0000e+00; kB(j) = nan;
+AB_event_counter(j) = 0;
+Beta = 20.0, Run # 6
+In run_trajectory
+In run_trajectory, RCval = 5.0511e-06
+Done! Beta = 20.0
+TinA = 4.9981e+04, TinB = 8.7000e-03, T_OmegaAB = 1.8666e+01, rateAB = 1.2000e-04
+TlastA(j) = 4.9999e+04; TlastB(j) = 6.8815e-01;
+rhoA(j) = 9.9999e-01; rhoB(j) = 1.3763e-05;
+kA(j) = 1.2000e-04; kB(j) = 8.7190e+00;
+AB_event_counter(j) = 6;
+Beta = 20.0, Run # 7
+In run_trajectory
+In run_trajectory, RCval = 6.7380e-09
+Done! Beta = 20.0
+TinA = 4.9981e+04, TinB = 5.5500e-03, T_OmegaAB = 1.8659e+01, rateAB = 1.2000e-04
+TlastA(j) = 4.9999e+04; TlastB(j) = 8.1775e-01;
+rhoA(j) = 9.9998e-01; rhoB(j) = 1.6355e-05;
+kA(j) = 1.2000e-04; kB(j) = 7.3372e+00;
+AB_event_counter(j) = 6;
+Beta = 20.0, Run # 8
+In run_trajectory
+In run_trajectory, RCval = 1.0855e-08
+Done! Beta = 20.0
+TinA = 4.9991e+04, TinB = 3.2350e-02, T_OmegaAB = 9.1472e+00, rateAB = 8.0000e-05
+TlastA(j) = 5.0000e+04; TlastB(j) = 3.0250e-01;
+rhoA(j) = 9.9999e-01; rhoB(j) = 6.0500e-06;
+kA(j) = 8.0000e-05; kB(j) = 1.3223e+01;
+AB_event_counter(j) = 4;
+Beta = 20.0, Run # 9
+In run_trajectory
+In run_trajectory, RCval = 2.9178e-08
+Done! Beta = 20.0
+TinA = 4.9997e+04, TinB = 0.0000e+00, T_OmegaAB = 3.1244e+00, rateAB = 0.0000e+00
+TlastA(j) = 5.0000e+04; TlastB(j) = 0.0000e+00;
+rhoA(j) = 1.0000e+00; rhoB(j) = 0.0000e+00;
+kA(j) = 0.0000e+00; kB(j) = nan;
+AB_event_counter(j) = 0;
+CPU time = 13409.7
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % 
+
+
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % gcc -Wall FFS.c CommittorRC.c LDA_CoordNum_CV.c timestep_helpers.c -lm -O3
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % ./a.out
+In readLDAmatrix
+-9.3301e-02	-4.6779e-01	
+3.8500e-02	-7.6840e-01	
+-2.9430e-01	-3.8874e-02	
+-1.6710e-01	-1.6917e-01	
+8.3301e-02	2.8462e-01	
+4.1350e-01	1.9864e-01	
+-6.3901e-01	1.8489e-01	
+5.3761e-01	-7.7138e-02	
+In readRCdata
+NNRC dimensions: 2 -> 25 -> 25 -> 25 -> 1
+opened file FEMdataBETA15/Committor_min01_LDA12_BETA15/RC_NNdata.txt
+opened file FEMdataBETA15/Committor_min01_LDA12_BETA15/RC_NNdata.txt
+BETA = 20.00
+1.0000e-02
+6.1579e-02
+1.1316e-01
+1.6474e-01
+2.1632e-01
+2.6789e-01
+3.1947e-01
+3.7105e-01
+4.2263e-01
+4.7421e-01
+5.2579e-01
+5.7737e-01
+6.2895e-01
+6.8053e-01
+7.3211e-01
+7.8368e-01
+8.3526e-01
+8.8684e-01
+9.3842e-01
+9.9000e-01
+Run 0
+Finished computing exit flux
+step = 1612102429, time = 8.0605e+04, exit_count = 10000
+Exit flux = 1.2406e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3179525, time = 1.5898e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.2257e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1592348, time = 7.9617e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.3958e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1319761, time = 6.5988e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 6.9396e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1220702, time = 6.1035e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.6982e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2293457, time = 1.1467e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.1911e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3463629, time = 1.7318e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.8747e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 2838388, time = 1.4192e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5867e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2533865, time = 1.2669e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.9271e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1722247, time = 8.6112e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6528e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1805463, time = 9.0273e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6753e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 1911357, time = 9.5568e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7413e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2088356, time = 1.0442e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7032e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2243201, time = 1.1216e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7078e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1602159, time = 8.0108e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9646e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1665437, time = 8.3272e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9726e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 1919832, time = 9.5992e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.8668e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2385211, time = 1.1926e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6588e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3697951, time = 1.8490e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.1586e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14570682, time = 7.2853e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.5800e-01
+Escape_rate = 6.2814e-05
+CPU time = 2226.06
+Run 1
+Finished computing exit flux
+step = 964162958, time = 4.8208e+04, exit_count = 10000
+Exit flux = 2.0743e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3117460, time = 1.5587e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.7178e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1624407, time = 8.1220e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.7065e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1386189, time = 6.9309e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.1469e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1290506, time = 6.4525e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.8518e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2451408, time = 1.2257e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.2759e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3675181, time = 1.8376e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.9334e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 3036519, time = 1.5183e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.6295e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2705379, time = 1.3527e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.9662e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1783139, time = 8.9157e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7214e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1878669, time = 9.3933e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7789e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 2031482, time = 1.0157e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7535e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2288556, time = 1.1443e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7344e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2320188, time = 1.1601e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7619e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1718800, time = 8.5940e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0155e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1823039, time = 9.1152e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0041e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 2018426, time = 1.0092e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9381e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2357560, time = 1.1788e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7497e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3667496, time = 1.8337e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.2932e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14485674, time = 7.2428e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.8381e-01
+Escape_rate = 1.5148e-04
+CPU time = 1354.87
+Run 2
+Finished computing exit flux
+step = 1025291358, time = 5.1265e+04, exit_count = 10000
+Exit flux = 1.9507e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3148040, time = 1.5740e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.5940e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1570258, time = 7.8513e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.7617e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1342618, time = 6.7131e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.1144e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1254112, time = 6.2706e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.8253e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2413332, time = 1.2067e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.3411e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3487936, time = 1.7440e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0902e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 3013629, time = 1.5068e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.6202e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2655340, time = 1.3277e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.0315e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1751794, time = 8.7590e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7489e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1941284, time = 9.7064e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7260e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 1989403, time = 9.9470e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7951e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2312344, time = 1.1562e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7589e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2292698, time = 1.1463e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7982e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1711980, time = 8.5599e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0163e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1754037, time = 8.7702e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0220e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 2095352, time = 1.0477e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9000e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2477639, time = 1.2388e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7512e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3674526, time = 1.8373e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.3278e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14886220, time = 7.4431e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.7257e-01
+Escape_rate = 1.4313e-04
+CPU time = 1435.35
+Run 3
+Finished computing exit flux
+step = 832627814, time = 4.1631e+04, exit_count = 10000
+Exit flux = 2.4020e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3419947, time = 1.7100e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.2470e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1649535, time = 8.2477e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.6880e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1354315, time = 6.7716e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.1088e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1283382, time = 6.4169e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.7119e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2265951, time = 1.1330e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.4003e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3475900, time = 1.7380e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.9575e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 3020027, time = 1.5100e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5455e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2576677, time = 1.2883e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.9783e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1741286, time = 8.7064e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7237e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1782848, time = 8.9142e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7789e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 2024204, time = 1.0121e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7604e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2148296, time = 1.0741e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7207e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2388233, time = 1.1941e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6790e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1677790, time = 8.3889e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9638e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1689704, time = 8.4485e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0196e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 2019986, time = 1.0100e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.8613e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2513171, time = 1.2566e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7078e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3838796, time = 1.9194e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.1987e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14722665, time = 7.3613e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.7284e-01
+Escape_rate = 1.4670e-04
+CPU time = 1179.16
+Run 4
+Finished computing exit flux
+step = 1815172146, time = 9.0759e+04, exit_count = 10000
+Exit flux = 1.1018e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3112171, time = 1.5561e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.1681e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1516713, time = 7.5836e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.4723e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1334227, time = 6.6711e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 6.8691e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1287413, time = 6.4371e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5552e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2232924, time = 1.1165e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.3115e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3265364, time = 1.6327e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0146e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 2854252, time = 1.4271e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5075e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2490874, time = 1.2454e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.8629e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1603596, time = 8.0180e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6610e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1780525, time = 8.9026e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7146e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 1974634, time = 9.8732e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7222e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2092368, time = 1.0462e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6723e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2247917, time = 1.1240e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6934e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1756934, time = 8.7847e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9182e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1621671, time = 8.1084e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9912e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 1885793, time = 9.4290e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.8700e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2453757, time = 1.2269e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6096e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3549278, time = 1.7746e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.1867e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14474734, time = 7.2374e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.5426e-01
+Escape_rate = 5.4454e-05
+CPU time = 2481.63
+Run 5
+Finished computing exit flux
+step = 481353196, time = 2.4068e+04, exit_count = 10000
+Exit flux = 4.1550e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3483737, time = 1.7419e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.2133e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1736152, time = 8.6808e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.6139e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1415625, time = 7.0781e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0947e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1325557, time = 6.6278e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.7785e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2391667, time = 1.1958e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.3812e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3628677, time = 1.8143e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.9774e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 3166672, time = 1.5833e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5569e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2595887, time = 1.2979e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.0334e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1810340, time = 9.0517e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6919e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1897949, time = 9.4897e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.8020e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 2130322, time = 1.0652e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7436e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2324121, time = 1.1621e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7382e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2274637, time = 1.1373e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7773e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1930257, time = 9.6513e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9566e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1803446, time = 9.0172e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0090e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 2029975, time = 1.0150e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9326e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2472940, time = 1.2365e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7344e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3634710, time = 1.8174e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.3333e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 13918957, time = 6.9595e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.8579e-01
+Escape_rate = 2.6736e-04
+CPU time = 712.362
+Run 6
+Finished computing exit flux
+step = 1206561476, time = 6.0328e+04, exit_count = 10000
+Exit flux = 1.6576e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3349604, time = 1.6748e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.1103e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1611957, time = 8.0598e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.4942e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1333550, time = 6.6678e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0388e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1314949, time = 6.5747e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.6342e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2350019, time = 1.1750e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.2659e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3521886, time = 1.7609e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.9803e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 2928693, time = 1.4643e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5409e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2454789, time = 1.2274e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.0775e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1650870, time = 8.2544e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7291e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1785194, time = 8.9260e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7812e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 1973143, time = 9.8657e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7420e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2167932, time = 1.0840e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7116e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2291003, time = 1.1455e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7359e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1627874, time = 8.1394e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0074e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1677527, time = 8.3876e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9960e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 1917253, time = 9.5863e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9008e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2318789, time = 1.1594e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7352e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3637036, time = 1.8185e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.2028e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14452724, time = 7.2264e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.6402e-01
+Escape_rate = 9.2367e-05
+CPU time = 1679.4
+Run 7
+Finished computing exit flux
+step = 857161719, time = 4.2858e+04, exit_count = 10000
+Exit flux = 2.3333e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3274547, time = 1.6373e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.5033e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1601913, time = 8.0096e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.7988e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1361641, time = 6.8082e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.1979e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1307342, time = 6.5367e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.8678e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2554977, time = 1.2775e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.2860e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3592233, time = 1.7961e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.9823e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 3183664, time = 1.5918e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5683e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2616055, time = 1.3080e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.0528e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1728587, time = 8.6429e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7735e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1861500, time = 9.3075e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7689e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 2010768, time = 1.0054e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7920e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2428438, time = 1.2142e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6498e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2565424, time = 1.2827e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6821e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1870026, time = 9.3501e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0041e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1914882, time = 9.5744e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9904e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 2051418, time = 1.0257e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9558e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2487048, time = 1.2435e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7866e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3783039, time = 1.8915e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.2713e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14460001, time = 7.2300e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.8545e-01
+Escape_rate = 1.6763e-04
+CPU time = 1217.04
+Run 8
+Finished computing exit flux
+step = 1677799299, time = 8.3890e+04, exit_count = 10000
+Exit flux = 1.1920e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3049288, time = 1.5246e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.5002e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1529083, time = 7.6454e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.6300e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1289948, time = 6.4497e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0383e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1231595, time = 6.1580e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.7155e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2358651, time = 1.1793e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.2490e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3370032, time = 1.6850e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0220e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 2856481, time = 1.4282e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5896e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2425535, time = 1.2128e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.0115e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1657604, time = 8.2880e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7025e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1794800, time = 8.9740e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7719e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 1866595, time = 9.3330e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.8370e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2252516, time = 1.1263e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.6625e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2289945, time = 1.1450e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7458e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1685596, time = 8.4280e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9775e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1689905, time = 8.4495e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 9.0025e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 1819621, time = 9.0981e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9574e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2188358, time = 1.0942e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.8215e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3665538, time = 1.8328e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.2515e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14792809, time = 7.3964e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.6747e-01
+Escape_rate = 7.7577e-05
+CPU time = 2318.37
+Run 9
+Finished computing exit flux
+step = 1105630295, time = 5.5282e+04, exit_count = 10000
+Exit flux = 1.8089e-01
+Prob(mstone[1]|mstone[0]):
+Finished computing P(milestone_next|milestone_current)
+step = 3237486, time = 1.6187e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 4.4158e-02
+Prob(mstone[2]|mstone[1]):
+Finished computing P(milestone_next|milestone_current)
+step = 1642546, time = 8.2127e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 5.6022e-01
+Prob(mstone[3]|mstone[2]):
+Finished computing P(milestone_next|milestone_current)
+step = 1368176, time = 6.8409e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.0691e-01
+Prob(mstone[4]|mstone[3]):
+Finished computing P(milestone_next|milestone_current)
+step = 1275668, time = 6.3783e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 7.7304e-01
+Prob(mstone[5]|mstone[4]):
+Finished computing P(milestone_next|milestone_current)
+step = 2452138, time = 1.2261e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.2129e-01
+Prob(mstone[6]|mstone[5]):
+Finished computing P(milestone_next|milestone_current)
+step = 3557071, time = 1.7785e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 6.8771e-01
+Prob(mstone[7]|mstone[6]):
+Finished computing P(milestone_next|milestone_current)
+step = 3032690, time = 1.5163e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.5148e-01
+Prob(mstone[8]|mstone[7]):
+Finished computing P(milestone_next|milestone_current)
+step = 2623128, time = 1.3116e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 7.9949e-01
+Prob(mstone[9]|mstone[8]):
+Finished computing P(milestone_next|milestone_current)
+step = 1689944, time = 8.4497e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7758e-01
+Prob(mstone[10]|mstone[9]):
+Finished computing P(milestone_next|milestone_current)
+step = 1816192, time = 9.0810e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7184e-01
+Prob(mstone[11]|mstone[10]):
+Finished computing P(milestone_next|milestone_current)
+step = 1960886, time = 9.8044e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7504e-01
+Prob(mstone[12]|mstone[11]):
+Finished computing P(milestone_next|milestone_current)
+step = 2254103, time = 1.1271e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7070e-01
+Prob(mstone[13]|mstone[12]):
+Finished computing P(milestone_next|milestone_current)
+step = 2406984, time = 1.2035e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7002e-01
+Prob(mstone[14]|mstone[13]):
+Finished computing P(milestone_next|milestone_current)
+step = 1769034, time = 8.8452e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9863e-01
+Prob(mstone[15]|mstone[14]):
+Finished computing P(milestone_next|milestone_current)
+step = 1879311, time = 9.3966e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9831e-01
+Prob(mstone[16]|mstone[15]):
+Finished computing P(milestone_next|milestone_current)
+step = 1929359, time = 9.6468e+01, exit_count = 10000
+P(milestone_next|milestone_current) = 8.9286e-01
+Prob(mstone[17]|mstone[16]):
+Finished computing P(milestone_next|milestone_current)
+step = 2381158, time = 1.1906e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.7704e-01
+Prob(mstone[18]|mstone[17]):
+Finished computing P(milestone_next|milestone_current)
+step = 3400639, time = 1.7003e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 8.3257e-01
+Prob(mstone[19]|mstone[18]):
+Finished computing P(milestone_next|milestone_current)
+step = 14462146, time = 7.2311e+02, exit_count = 10000
+P(milestone_next|milestone_current) = 5.7081e-01
+Escape_rate = 1.1104e-04
+CPU time = 1582.85
+6.2814e-05
+1.5148e-04
+1.4313e-04
+1.4670e-04
+5.4454e-05
+2.6736e-04
+9.2367e-05
+1.6763e-04
+7.7577e-05
+1.1104e-04
+Mean escape rate = 1.2746e-04
+Standard deviation = 6.3138e-05
+(base) mariacameron@Marias-Mac-Studio LDA12_SortCNum_CV % 
+
+
+
+
+
+
