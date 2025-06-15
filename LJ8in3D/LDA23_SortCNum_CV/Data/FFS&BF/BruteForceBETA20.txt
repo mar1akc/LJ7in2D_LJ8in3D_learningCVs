@@ -1,0 +1,151 @@
+START near MIN 1
+Beta = 20.0, Run # 0
+Done! Beta = 20.0
+TinA(j) = 7.5515e+03; TinB(j) = 4.1178e+04; T_OmegaAB(j) = 1.2701e+03; rateAB = 3.5660e-02(j);
+TlastA(j) = 8.4828e+03; TlastB(j) = 4.1517e+04;
+rhoA(j) = 1.6966e-01; rhoB(j) = 8.3034e-01;
+kA(j) = 2.1019e-01; kB(j) = 4.2946e-02;
+AB_event_counter(j) = 1783;
+START near MIN 1
+Beta = 20.0, Run # 1
+Done! Beta = 20.0
+TinA(j) = 2.5666e+03; TinB(j) = 4.6901e+04; T_OmegaAB(j) = 5.3263e+02; rateAB = 1.2620e-02(j);
+TlastA(j) = 2.8762e+03; TlastB(j) = 4.7124e+04;
+rhoA(j) = 5.7524e-02; rhoB(j) = 9.4248e-01;
+kA(j) = 2.1939e-01; kB(j) = 1.3390e-02;
+AB_event_counter(j) = 631;
+START near MIN 1
+Beta = 20.0, Run # 2
+Done! Beta = 20.0
+TinA(j) = 3.4774e+03; TinB(j) = 4.5843e+04; T_OmegaAB(j) = 6.7975e+02; rateAB = 1.7760e-02(j);
+TlastA(j) = 3.9110e+03; TlastB(j) = 4.6089e+04;
+rhoA(j) = 7.8220e-02; rhoB(j) = 9.2178e-01;
+kA(j) = 2.2705e-01; kB(j) = 1.9267e-02;
+AB_event_counter(j) = 888;
+START near MIN 1
+Beta = 20.0, Run # 3
+Done! Beta = 20.0
+TinA(j) = 2.8640e+03; TinB(j) = 4.6556e+04; T_OmegaAB(j) = 5.7963e+02; rateAB = 1.4920e-02(j);
+TlastA(j) = 3.2157e+03; TlastB(j) = 4.6784e+04;
+rhoA(j) = 6.4314e-02; rhoB(j) = 9.3569e-01;
+kA(j) = 2.3199e-01; kB(j) = 1.5946e-02;
+AB_event_counter(j) = 746;
+START near MIN 1
+Beta = 20.0, Run # 4
+Done! Beta = 20.0
+TinA(j) = 3.7978e+03; TinB(j) = 4.5495e+04; T_OmegaAB(j) = 7.0733e+02; rateAB = 1.7820e-02(j);
+TlastA(j) = 4.2575e+03; TlastB(j) = 4.5742e+04;
+rhoA(j) = 8.5151e-02; rhoB(j) = 9.1485e-01;
+kA(j) = 2.0928e-01; kB(j) = 1.9479e-02;
+AB_event_counter(j) = 891;
+START near MIN 1
+Beta = 20.0, Run # 5
+Done! Beta = 20.0
+TinA(j) = 9.0271e+02; TinB(j) = 4.8821e+04; T_OmegaAB(j) = 2.7637e+02; rateAB = 4.0800e-03(j);
+TlastA(j) = 1.0055e+03; TlastB(j) = 4.8994e+04;
+rhoA(j) = 2.0111e-02; rhoB(j) = 9.7989e-01;
+kA(j) = 2.0288e-01; kB(j) = 4.1637e-03;
+AB_event_counter(j) = 204;
+START near MIN 1
+Beta = 20.0, Run # 6
+Done! Beta = 20.0
+TinA(j) = 3.2779e+03; TinB(j) = 4.6088e+04; T_OmegaAB(j) = 6.3366e+02; rateAB = 1.5000e-02(j);
+TlastA(j) = 3.6786e+03; TlastB(j) = 4.6321e+04;
+rhoA(j) = 7.3573e-02; rhoB(j) = 9.2643e-01;
+kA(j) = 2.0388e-01; kB(j) = 1.6191e-02;
+AB_event_counter(j) = 750;
+START near MIN 1
+Beta = 20.0, Run # 7
+Done! Beta = 20.0
+TinA(j) = 3.3412e+03; TinB(j) = 4.6010e+04; T_OmegaAB(j) = 6.4925e+02; rateAB = 1.5960e-02(j);
+TlastA(j) = 3.7517e+03; TlastB(j) = 4.6248e+04;
+rhoA(j) = 7.5033e-02; rhoB(j) = 9.2497e-01;
+kA(j) = 2.1271e-01; kB(j) = 1.7255e-02;
+AB_event_counter(j) = 798;
+START near MIN 1
+Beta = 20.0, Run # 8
+Done! Beta = 20.0
+TinA(j) = 2.0322e+03; TinB(j) = 4.7522e+04; T_OmegaAB(j) = 4.4591e+02; rateAB = 9.5400e-03(j);
+TlastA(j) = 2.2736e+03; TlastB(j) = 4.7726e+04;
+rhoA(j) = 4.5472e-02; rhoB(j) = 9.5453e-01;
+kA(j) = 2.0980e-01; kB(j) = 9.9945e-03;
+AB_event_counter(j) = 477;
+START near MIN 1
+Beta = 20.0, Run # 9
+Done! Beta = 20.0
+TinA(j) = 6.3429e+02; TinB(j) = 4.9120e+04; T_OmegaAB(j) = 2.4522e+02; rateAB = 2.7600e-03(j);
+TlastA(j) = 7.0996e+02; TlastB(j) = 4.9290e+04;
+rhoA(j) = 1.4199e-02; rhoB(j) = 9.8580e-01;
+kA(j) = 1.9438e-01; kB(j) = 2.7998e-03;
+AB_event_counter(j) = 138;
+CPU time = 19094.9
+
+AB_event_counter
+1.7830e+03
+6.3100e+02
+8.8800e+02
+7.4600e+02
+8.9100e+02
+2.0400e+02
+7.5000e+02
+7.9800e+02
+4.7700e+02
+1.3800e+02
+Mean = 7.3060e+02
+Standard deviation = 4.5533e+02
+
+TinA
+7.5515e+03
+2.5666e+03
+3.4774e+03
+2.8640e+03
+3.7978e+03
+9.0271e+02
+3.2779e+03
+3.3412e+03
+2.0322e+03
+6.3429e+02
+Mean = 3.0446e+03
+Standard deviation = 1.9117e+03
+
+TinB
+4.1178e+04
+4.6901e+04
+4.5843e+04
+4.6556e+04
+4.5495e+04
+4.8821e+04
+4.6088e+04
+4.6010e+04
+4.7522e+04
+4.9120e+04
+Mean = 4.6353e+04
+Standard deviation = 2.1964e+03
+
+TlastA
+8.4828e+03
+2.8762e+03
+3.9110e+03
+3.2157e+03
+4.2575e+03
+1.0055e+03
+3.6786e+03
+3.7517e+03
+2.2736e+03
+7.0996e+02
+Mean = 3.4163e+03
+Standard deviation = 2.1493e+03
+
+TinB
+4.1517e+04
+4.7124e+04
+4.6089e+04
+4.6784e+04
+4.5742e+04
+4.8994e+04
+4.6321e+04
+4.6248e+04
+4.7726e+04
+4.9290e+04
+Mean = 4.6584e+04
+Standard deviation = 2.1493e+03
