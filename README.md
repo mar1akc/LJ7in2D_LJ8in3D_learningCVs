@@ -14,7 +14,7 @@ The directories LJ7in2D and LJ8in3D contain the collections of codes for the res
 ### Subdirectories of LJ7in2D:
 - **MLCV\_sort\_CNum**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. The coordination number of an atom $$i$$ is a continuous function of atomic coordinates approximately equal to the number of the nearest neighbors of atom $$i$$:\
    $$c_i = \sum_{j\neq i} (1-r_{i,j}^8)/(1 - r_{i,j}^{16}).$$
-- **MLCV\_sort\_d2**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[d^2], the sorted vector of pairwise distances squared.
+- **MLCV\_sort\_d2**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[$$d^2$$], the sorted vector of pairwise distances squared.
 - **mu2mu3**: codes for the standard set of CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
 
 ### Subdirectories of LJ8in3D:
