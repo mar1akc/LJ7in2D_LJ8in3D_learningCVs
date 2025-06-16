@@ -11,8 +11,14 @@ Furthermore, this package offers C codes for forward flux sampling, generating t
 
 The directories LJ7in2D and LJ8in3D contain the collections of codes for the respective systems. The subdirectories of these two main directories contain codes for different collective variables.
 
-Subdirectories of LJ7in2D:
+### Subdirectories of LJ7in2D:
 - MLCV_sort_CNum: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. The coordination number of an atom $$i$$ is a continuous function of atomic coordinates approximately equal to the number of nearest neighbors of atom $$i$$:\
    $$c_i = \sum_{j\neq i} (1-r_{i,j}^8)/(1 - r_{i,j}^{16}).$$
 - MLCV_sort_d2: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[d^2], the sorted vector of pairwise distances squared.
 - mu2mu3: codes for the standard set of CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
+
+### Subdirectories of LJ8in3D:
+- LDA12_SortCNum_CV: codes for (LDA1,LDA2) CVs, the first and second dominant eigenvectors of the generalized eigenvalue problem in the Linear  Discriminant Analysis (see e.g. R. O. Duda, P. E. Hart, D. G. Stork "Pattern Classification", Section 3.8.3). The CVs (LDA1,LDA2) separate the union of the two lowest minima, 1 and 2, of LJ8 in 3D from the rest.
+- LDA23_SortCNum_CV: codes for (LDA2,LDA3) CVs, the second third dominant eigenvectors of the generalized eigenvalue problem in the Linear  Discriminant Analysis. These CVs separate minima 1 and 2.
+- MLCV_sort_CNum: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. 
+- mu2mu3: codes for CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
