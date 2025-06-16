@@ -43,7 +43,7 @@ Note that it suffices to deposit the Gaussian bumps at one value of BETA and use
 - LJ{NATOMS}bins\_beta{BETA}.txt -- the number of visits to each bin.
 - LJ{NATOMS}free\_energy\_beta{BETA}.txt is the free energy
 - LJ{BETA}free\_energy\_bicubic\_matrix\_beta{BETA}.txt is a file of ~3Mb with data to for the bicubic interpolant of the free energy allowing to calculate it on any grid of a different size or at any point. We do not include it in the GitHub version due to its large size.
-4. **LJ{NATOMS}in{DIM}D\_diffusion\_matrix.c** computes the diffusion matrix. It requires the files Data/bicubic_params.txt, Data/LJ{NATOMS}bins\_confs.txt and the input files (if any) of LJ<NATOMS>_WTMetad_<description of the CVs>.c describing the CVs. The calculation of the diffusion matrix is described in the appendix of [1]. It outputs the following files to the directory Data:
+4. **LJ{NATOMS}in{DIM}D\_diffusion\_matrix.c** computes the diffusion matrix. It requires the files Data/bicubic_params.txt, Data/LJ{NATOMS}bins\_confs.txt and the input files (if any) of LJ{NATOMS}\_WTMetad\_{description of the CVs}.c describing the CVs. The calculation of the diffusion matrix is described in the appendix of [1]. It outputs the following files to the directory Data:
 - LJ{NATOMS}\_M11\_beta{BETA}.txt -- the (1,1) component of the diffusion matrix
 - LJ{NATOMS}\_M12\_beta{BETA}.txt -- the (1,2) component  of the diffusion matrix (this matrix is symmetric)
 - LJ{NATOMS}\_M22\_beta{BETA}.txt -- the (2,2) component of the diffusion matrix
