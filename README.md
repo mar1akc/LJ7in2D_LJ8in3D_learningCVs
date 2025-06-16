@@ -50,5 +50,5 @@ Note that it suffices to deposit the Gaussian bumps at one value of BETA and use
 - LJ{NATOMS}\_M11\_bicubic_matrix_beta<BETA>.txt -- the data for the bicubic interpolant for the (1,1) component of the diffusion matrix that allow to evaluate $$M_{11}$$ on any mesh or at any point.
 - LJ{NATOMS}\_M12\_bicubic\_matrix\_beta{BETA}.txt -- the similar data for (1,2)-component
 - LJ{NATOMS}\_M22\_bicubic\_matrix\_beta{BETA}.txt -- the similar data for (2,2)-component
-
+5. **LJ{a description of the system and the CVs}.ipynb** is a Python notebook that reads the files output by  LJ{NATOMS}in{DIM}D\_bicubicFE\_binning.c and LJ{NATOMS}in{DIM}D\_diffusion\_matrix.c and visualizes the free energy and the diffusion matrix. The package contains all necessary files allowing you to run this file at $$\beta = 5$$, $$7$$, and $$9$$ for LJ7 in 2D and $$\beta = 10$$, $$15$$, and $$20$$ for LJ8 in 3D.
   
