@@ -59,6 +59,6 @@ rare event simulations,” Journal of Physics: Condensed Matter 21, 463102 (2009
   b(x) \mapsto b(x) + 2\beta^{-1}\nabla\log q_{NN}(CV(\phi(x)))
   $$
   where CV is represented by a neural network or an analytic formula and $$\phi$$ is the feature map (e.g. sort [c]). The unput files are the same as for FFS.c. You must make a directory  named **RtrajStochControl** in the **Data** directory for the output files with statistics.
-9. **brute\_force.c** runs brute force sampling of the transition process. The input files are the same as for FFS.c. The output files are written to the dirctory Data/FFS&BF.
+9. **brute\_force.c** runs brute force sampling of the transition process. The input files are the same as for FFS.c. The output files are written to the directory Data/FFS&BF.
 
   
