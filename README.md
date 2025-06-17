@@ -19,7 +19,7 @@ The directories LJ7in2D and LJ8in3D contain the collections of codes for the res
 - **Drivers4FEMmesh**: Matlab codes for triangulation working with Darren Engwirda's mesh generator  [https://github.com/dengwirda/mesh2d](https://github.com/dengwirda/mesh2d)
 
 ### Subdirectories of LJ8in3D:
-- **LDA12\_SortCNum\_CV**: codes for (LDA1,LDA2) CVs, the first and second dominant eigenvectors of the generalized eigenvalue problem in the Linear  Discriminant Analysis (see e.g. R. O. Duda, P. E. Hart, D. G. Stork "Pattern Classification", Section 3.8.3). The CVs (LDA1,LDA2) separate the union of the two lowest minima, 1 and 2, of LJ8 in 3D from the rest.
+- **LDA12\_SortCNum\_CV**: codes for (LDA1,LDA2) CVs, the first and second dominant eigenvectors of the generalized eigenvalue problem in the Linear  Discriminant Analysis (see e.g. _R. O. Duda, P. E. Hart, D. G. Stork "Pattern Classification", Section 3.8.3_). The CVs (LDA1,LDA2) separate the union of the two lowest minima, 1 and 2, of LJ8 in 3D from the rest.
 - **LDA23\_SortCNum\_CV**: codes for (LDA2,LDA3) CVs, the second third dominant eigenvectors of the generalized eigenvalue problem in the Linear  Discriminant Analysis. These CVs separate minima 1 and 2.
 - **MLCV\_sort\_CNum**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. 
 - **mu2mu3**: codes for CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
