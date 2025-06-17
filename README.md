@@ -24,6 +24,7 @@ The directories LJ7in2D and LJ8in3D contain the collections of codes for the res
 - **MLCV\_sort\_CNum**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. 
 - **mu2mu3**: codes for CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
 - **Drivers4FEMmesh**: Matlab codes for triangulation working with Darren Engwirda's mesh generator  [https://github.com/dengwirda/mesh2d](https://github.com/dengwirda/mesh2d)
+- **LJ8_drawconf**: Matlab codes for visualizing the LJ8 cluster in 3D using balls and rods. The driver file is `LJ8_drawconf.m`. The drawing file is `DrawConf_BallsStix_Bicolor.m`. The data file with atomic coordinates of the minima of LJ8 in 3D is `LJ8min_xyz.m`. 
 
 ### Getting started
 - If you want to reproduce figures from [1], it suffices to open the file **LJ{a description of the system and the CVs}.ipynb**. The provided data allow you to visualize the free energy, the diffusion matrix, the committor, and the probability density of transition trajectories for LJ7 in 2D at $$\beta \in\{5,7,9\}$$ and for LJ8 in 3D at $$\beta \in\{10,15,20\}$$.
