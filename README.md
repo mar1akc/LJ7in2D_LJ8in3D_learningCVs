@@ -19,8 +19,10 @@ The MALA time integrator is used (Metropolis-Adjusted Langevin Algorithm for all
 The directories LJ7in2D and LJ8in3D contain the collections of codes for the respective systems. The subdirectories of these two main directories contain codes for different collective variables.
 
 ### Subdirectories of LJ7in2D:
-- **MLCV\_sort\_CNum**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. The coordination number of an atom $$i$$ is a continuous function of atomic coordinates approximately equal to the number of the nearest neighbors of atom $$i$$:\
+- **MLCV\_sort\_CNum**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[c], the sorted vector of coordination numbers of the atomic coordinates. The coordination number of an atom $$i$$ is a continuous function of atomic coordinates approximately equal to the number of the nearest neighbors of atom $$i$$:
+ 
    $$c_i = \sum_{j\neq i} (1-r_{i,j}^8)/(1 - r_{i,j}^{16}).$$
+  
 - **MLCV\_sort\_d2**: codes for the CVs learned by Algorithm 1 in [1] with the feature map sort[d^2], the sorted vector of pairwise distances squared.
 - **mu2mu3**: codes for the standard set of CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
 - **Drivers4FEMmesh**: Matlab codes for triangulation working with Darren Engwirda's mesh generator  [https://github.com/dengwirda/mesh2d](https://github.com/dengwirda/mesh2d)
@@ -73,8 +75,10 @@ Note that it suffices to deposit the Gaussian bumps at one value of `BETA` and u
 6. Next, the committor must be approximated by a neural network. This is done in [https://github.com/margotyjx/OrthogonalityCVLearning](https://github.com/margotyjx/OrthogonalityCVLearning). After that, we convert the neural network data to two input files, one with the network parameters and the other one with network dimensions, by a provided Matlab codes `read_committorNN_data.m` (or a similar name).
 7. `FFS.c` runs the forward flux sampling algorithm _(R. J. Allen, C. Valeriani, and P. Rein ten Wolde, “Forward flux sampling for
 rare event simulations,” Journal of Physics: Condensed Matter 21, 463102 (2009).)_. It reads the files with the neural network parameters and dimensions of the committor and of the CVs. If the CVs are LDAs, it requires the same LDA imput files as the metadynamics code. If the CVs are $$(\mu_2,\mu_3)$$, no files for them are requred. You must check that the minimal milestone $$\lambda_0$$ and the maximal milestone $$\lambda_{N-1}$$ are such that the neural network value at the starting minimum is smaller than $$\lambda_0$$ and the neural network value at the finish minimum is larger than $$\lambda_{N-1}$$.  If necessary, adjust the parameters `STARTING_MIN`  `FINISH_MIN` in `macros_and_contants.h`. You must make a directory  named `FFS&BF` in the `Data` directory for the output files with statistics.
-8. `Rtraj_StochControl.c` generates samples of transition trajectories using stochastic control with the controller made out of the committor. The drift in the controlled process is modified as (_J. Yuan, A. Shah, C. Bentz, and M. Cameron, “Optimal control for sampling the transition path process and estimating rates,” Communications in Nonlinear Science and Numerical Simulation 129, 107701 (2024)_):\
-  $$b(x) \mapsto b(x) + 2\beta^{-1}\nabla\log [q_{NN}(CV(\phi(x)))]$$\
+8. `Rtraj_StochControl.c` generates samples of transition trajectories using stochastic control with the controller made out of the committor. The drift in the controlled process is modified as (_J. Yuan, A. Shah, C. Bentz, and M. Cameron, “Optimal control for sampling the transition path process and estimating rates,” Communications in Nonlinear Science and Numerical Simulation 129, 107701 (2024)_):
+  
+  $$b(x) \mapsto b(x) + 2\beta^{-1}\nabla\log [q_{NN}(CV(\phi(x)))]$$
+  
   where CV is represented by a neural network or an analytic formula and $$\phi$$ is the feature map (e.g. sort [c]). The unput files are the same as for `FFS.c`. You must make a directory  named `RtrajStochControl` in the `Data` directory for the output files with statistics and the binned probability density of transition trajectories.
 9. `brute_force.c` runs brute force sampling of the transition process. The input files are the same as for `FFS.c`. The output files are written to the directory `Data/FFS&BF`.
 
