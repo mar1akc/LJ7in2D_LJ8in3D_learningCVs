@@ -9,9 +9,9 @@ This package is designed for computing the free energy and diffusion matrix with
 
 Furthermore, this package offers C codes for forward flux sampling, generating transition trajectories using stochastic control, brute force sampling. 
 
-LJ7 in 2D and LJ8 in 3D are governed by the overdamped Langevin dynamics\
+LJ7 in 2D and LJ8 in 3D are governed by the overdamped Langevin dynamics
 
-$$dX_t = -\nabla V(X_t)dt + \sqrt{2\beta^{-1}}dW_t$$\
+$$dX_t = -\nabla V(X_t)dt + \sqrt{2\beta^{-1}}dW_t$$
 
 The MALA time integrator is used (Metropolis-Adjusted Langevin Algorithm for all simulations _(G. O. Roberts and R. L. Tweedie, “Exponential convergence of Langevin distributions and their discrete approximations,” Bernoulli 2, 341–363 (1996))_.
 
