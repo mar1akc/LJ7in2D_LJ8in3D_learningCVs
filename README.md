@@ -35,7 +35,7 @@ in the Terminal to run the code.
   
 
 ### The workflow of codes in each directory:
-1. **macros\_and\_contants.h** contains MACROs and important parameters:
+1. `macros_and_contants.h` contains MACROs and important parameters:
 - `BETA` ($$\beta = 1/(k_BT)$$)
 - `NATOMS` (the number of atoms)
 - `DIM` (2, or 3, the dimension of the space where the atoms move)
