@@ -25,6 +25,23 @@ The directories LJ7in2D and LJ8in3D contain the collections of codes for the res
 - **mu2mu3**: codes for CVs $$(\mu_2,\mu_3)$$, the second and the third central moments of the coordination numbers.
 - **Drivers4FEMmesh**: Matlab codes for triangulation working with Darren Engwirda's mesh generator  [https://github.com/dengwirda/mesh2d](https://github.com/dengwirda/mesh2d)
 
+### Getting started
+- If you want to reproduce figures from [1], it suffices to open the file **LJ{a description of the system and the CVs}.ipynb**. The provided data allow you to visualize the free energy, the diffusion matrix, the committor, and the probability density of transition trajectories for LJ7 in 2D at $$\beta \in\{5,7,9\}$$ and for LJ8 in 3D at $$\beta \in\{10,15,20\}$$.
+- If you want to run C codes, you can use a command line tool. We ran all C codes in the Terminal on Mac OS. The compile command is given in a commented line at the top of each C code. For example, to run metadynamics with the machine-learned CV with the feature map sort[c], the compile command is
+'''
+{
+gcc -Wall LJ8_WTMetad_MargotCV_2D.c MargotColVar_CoordNum.c timestep_helpers.c -lm -O3
+}
+'''
+As the compilation is completed, type 
+'''
+{
+./a.out
+}
+'''
+in the Terminal to run the code.
+  
+
 ### The workflow of codes in each directory:
 1. **macros\_and\_contants.h** contains MACROs and important parameters:
 - BETA ($$\beta = 1/(k_BT)$$)
