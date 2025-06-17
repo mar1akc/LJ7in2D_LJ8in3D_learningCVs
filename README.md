@@ -5,7 +5,7 @@ This package contains a collection of C codes for the paper
 
 This package is designed for computing the free energy and diffusion matrix with respect to the standard and given machine-learned collective variables (CVs) for two systems: Lennard-Jones-7 in 2D and Lennard-Jones-8 in 3D. The machine-learned collective variables are obtained by Algorithm 1 in [1] implemented in the codes in the GitHub Repository
 
-[https://github.com/margotyjx/OrthogonalityCVLearning](https://github.com/margotyjx/OrthogonalityCVLearning)
+[https://github.com/margotyjx/OrthogonalityCVLearning/tree/main/LrCV_permsym](https://github.com/margotyjx/OrthogonalityCVLearning/tree/main/LrCV_permsym)
 
 Furthermore, this package offers C codes for forward flux sampling, generating transition trajectories using stochastic control, brute force sampling. 
 
